@@ -57,6 +57,13 @@
         "fileName": "n6.txt",
         "date_of_commit": "9 - 2 - 2024",
         "time_of_commit": "15:50:11"
+      },
+      {
+        "msg": "thamim",
+        "type_of_commit": "[Style_Changes] ",
+        "fileName": "n6.txt",
+        "date_of_commit": "9 - 2 - 2024",
+        "time_of_commit": "16:20:07"
       }
     ],
     "t2.txt": [
@@ -66,6 +73,13 @@
         "fileName": "t2.txt",
         "date_of_commit": "9 - 2 - 2024",
         "time_of_commit": "15:53:35"
+      },
+      {
+        "msg": "secondcommit",
+        "type_of_commit": "[Feature] ",
+        "fileName": "t2.txt",
+        "date_of_commit": "9 - 2 - 2024",
+        "time_of_commit": "16:20:35"
       }
     ]
   }
