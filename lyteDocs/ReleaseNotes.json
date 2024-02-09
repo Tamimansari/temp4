@@ -50,7 +50,7 @@
         "time_of_commit": "16:17:12"
       },
       {
-        "msg": "changes n5",
+        "msg": "<revert>  changes n5",
         "type_of_commit": "[Style_Changes] ",
         "fileName": "n5.txt",
         "date_of_commit": "9 - 2 - 2024",
@@ -87,6 +87,15 @@
         "fileName": "t2.txt",
         "date_of_commit": "9 - 2 - 2024",
         "time_of_commit": "16:20:35"
+      }
+    ],
+    "test.txt": [
+      {
+        "msg": "changes in test.txt",
+        "type_of_commit": "[Style_Changes] ",
+        "fileName": "test.txt",
+        "date_of_commit": "9 - 2 - 2024",
+        "time_of_commit": "17:36:00"
       }
     ]
   }
