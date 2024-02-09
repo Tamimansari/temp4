@@ -16,6 +16,13 @@
         "fileName": "n2.txt",
         "date_of_commit": "9 - 2 - 2024",
         "time_of_commit": "10:56:30"
+      },
+      {
+        "msg": "happy journey msg",
+        "type_of_commit": "[Refactor] ",
+        "fileName": "n2.txt",
+        "date_of_commit": "9 - 2 - 2024",
+        "time_of_commit": "10:57:25"
       }
     ]
   }
