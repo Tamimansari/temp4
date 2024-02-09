@@ -8,6 +8,15 @@
         "date_of_commit": "9 - 2 - 2024",
         "time_of_commit": "10:45:52"
       }
+    ],
+    "n2.txt": [
+      {
+        "msg": "ewfwgefgfg",
+        "type_of_commit": "[Bug_Fix] (change)",
+        "fileName": "n2.txt",
+        "date_of_commit": "9 - 2 - 2024",
+        "time_of_commit": "10:56:30"
+      }
     ]
   }
 }
