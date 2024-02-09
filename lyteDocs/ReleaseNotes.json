@@ -16,15 +16,22 @@
         "fileName": "n2.txt",
         "date_of_commit": "9 - 2 - 2024",
         "time_of_commit": "10:56:30"
+      },
+      {
+        "msg": "happy journey msg",
+        "type_of_commit": "[Refactor] ",
+        "fileName": "n2.txt",
+        "date_of_commit": "9 - 2 - 2024",
+        "time_of_commit": "10:57:25"
       }
     ],
-    "test.txt": [
+    "test/t1.txt": [
       {
-        "msg": "changes in test.txt",
-        "type_of_commit": "[undefined] ",
-        "fileName": "test.txt",
+        "msg": "testing the test/t1.txt",
+        "type_of_commit": "[Bug_Fix] (check)",
+        "fileName": "t1.txt",
         "date_of_commit": "9 - 2 - 2024",
-        "time_of_commit": "12:49:49"
+        "time_of_commit": "11:10:07"
       }
     ]
   }
