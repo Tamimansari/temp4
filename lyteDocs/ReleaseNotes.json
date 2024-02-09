@@ -8,15 +8,6 @@
         "date_of_commit": "9 - 2 - 2024",
         "time_of_commit": "10:45:52"
       }
-    ],
-    "n1.txt": [
-      {
-        "msg": "checking purpose",
-        "type_of_commit": "[Style_Changes] ",
-        "fileName": "n1.txt",
-        "date_of_commit": "9 - 2 - 2024",
-        "time_of_commit": "10:46:47"
-      }
     ]
   }
 }
