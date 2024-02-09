@@ -33,24 +33,6 @@
         "date_of_commit": "9 - 2 - 2024",
         "time_of_commit": "11:10:07"
       }
-    ],
-    "t2.txt": [
-      {
-        "msg": "changes",
-        "type_of_commit": "[Style_Changes] ",
-        "fileName": "t2.txt",
-        "date_of_commit": "9 - 2 - 2024",
-        "time_of_commit": "15:27:17"
-      }
-    ],
-    "n5.txt": [
-      {
-        "msg": "checkskip",
-        "type_of_commit": "[Style_Changes] ",
-        "fileName": "n5.txt",
-        "date_of_commit": "9 - 2 - 2024",
-        "time_of_commit": "15:37:57"
-      }
     ]
   }
 }
