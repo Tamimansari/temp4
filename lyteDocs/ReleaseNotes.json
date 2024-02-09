@@ -1,0 +1,13 @@
+{
+  "1.0.0": {
+    "package.json": [
+      {
+        "msg": "version fix",
+        "type_of_commit": "[Bug_Fix] (vchanged)",
+        "fileName": "package.json",
+        "date_of_commit": "9 - 2 - 2024",
+        "time_of_commit": "10:45:52"
+      }
+    ]
+  }
+}
