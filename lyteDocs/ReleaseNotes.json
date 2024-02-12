@@ -127,15 +127,6 @@
         "date_of_commit": "12 - 2 - 2024",
         "time_of_commit": "12:37:19"
       }
-    ],
-    "m.txt": [
-      {
-        "msg": "nithin msg",
-        "type_of_commit": "[Bug_Fix] (temp)",
-        "fileName": "m.txt",
-        "date_of_commit": "12 - 2 - 2024",
-        "time_of_commit": "18:10:09"
-      }
     ]
   }
 }
