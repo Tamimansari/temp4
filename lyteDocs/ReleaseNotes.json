@@ -112,13 +112,6 @@
         "fileName": "n7.txt",
         "date_of_commit": "12 - 2 - 2024",
         "time_of_commit": "11:50:48"
-      },
-      {
-        "msg": "tempmsg",
-        "type_of_commit": "[Bug_Fix] (hi)",
-        "fileName": "n7.txt",
-        "date_of_commit": "12 - 2 - 2024",
-        "time_of_commit": "12:37:19"
       }
     ]
   }
