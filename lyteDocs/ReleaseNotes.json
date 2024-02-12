@@ -62,29 +62,29 @@
         "fileName": "n5.txt",
         "date_of_commit": "12 - 2 - 2024",
         "time_of_commit": "11:50:41"
+      },
+      {
+        "msg": "test",
+        "type_of_commit": "[Refactor] ",
+        "fileName": "n5.txt",
+        "date_of_commit": "12 - 2 - 2024",
+        "time_of_commit": "15:27:53"
       }
     ],
     "n6.txt": [
+      {
+        "msg": "thamim",
+        "type_of_commit": "[Style_Changes] ",
+        "fileName": "n6.txt",
+        "date_of_commit": "9 - 2 - 2024",
+        "time_of_commit": "16:20:07"
+      },
       {
         "msg": "refactorcheck",
         "type_of_commit": "[Refactor] ",
         "fileName": "n6.txt",
         "date_of_commit": "12 - 2 - 2024",
         "time_of_commit": "11:50:46"
-      },
-      {
-        "msg": "changes",
-        "type_of_commit": "[Style_Changes] ",
-        "fileName": "n6.txt",
-        "date_of_commit": "12 - 2 - 2024",
-        "time_of_commit": "15:31:26"
-      },
-      {
-        "msg": "thamim",
-        "type_of_commit": "[Style_Changes] ",
-        "fileName": "n6.txt",
-        "date_of_commit": "12 - 2 - 2024",
-        "time_of_commit": "15:34:01"
       }
     ],
     "t2.txt": [
