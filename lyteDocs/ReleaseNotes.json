@@ -36,13 +36,6 @@
     ],
     "n5.txt": [
       {
-        "msg": "ftcheckup",
-        "type_of_commit": "[Feature] ",
-        "fileName": "n5.txt",
-        "date_of_commit": "9 - 2 - 2024",
-        "time_of_commit": "15:46:43"
-      },
-      {
         "msg": "<revert>  changes n5",
         "type_of_commit": "[Style_Changes] ",
         "fileName": "n5.txt",
@@ -69,6 +62,13 @@
         "fileName": "n5.txt",
         "date_of_commit": "12 - 2 - 2024",
         "time_of_commit": "15:27:53"
+      },
+      {
+        "msg": "ftcheckup",
+        "type_of_commit": "[Feature] ",
+        "fileName": "n5.txt",
+        "date_of_commit": "12 - 2 - 2024",
+        "time_of_commit": "15:35:15"
       }
     ],
     "n6.txt": [
@@ -84,7 +84,7 @@
         "type_of_commit": "[Refactor] ",
         "fileName": "n6.txt",
         "date_of_commit": "12 - 2 - 2024",
-        "time_of_commit": "11:50:46"
+        "time_of_commit": "15:35:21"
       }
     ],
     "t2.txt": [
