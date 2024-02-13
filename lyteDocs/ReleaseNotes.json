@@ -133,6 +133,13 @@
         "fileName": "n7.txt",
         "date_of_commit": "13 - 2 - 2024",
         "time_of_commit": "12:16:15"
+      },
+      {
+        "msg": "Test ads added",
+        "type_of_commit": "[Bug_Fix] (233)",
+        "fileName": "n7.txt",
+        "date_of_commit": "13 - 2 - 2024",
+        "time_of_commit": "12:29:51"
       }
     ],
     "n9.txt": [
