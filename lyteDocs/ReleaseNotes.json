@@ -186,6 +186,13 @@
         "fileName": "n8.txt",
         "date_of_commit": "13 - 2 - 2024",
         "time_of_commit": "12:16:23"
+      },
+      {
+        "msg": "thamim added",
+        "type_of_commit": "[Refactor] ",
+        "fileName": "n8.txt",
+        "date_of_commit": "13 - 2 - 2024",
+        "time_of_commit": "12:21:38"
       }
     ]
   }
