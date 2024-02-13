@@ -121,6 +121,13 @@
     ],
     "n7.txt": [
       {
+        "msg": "check up",
+        "type_of_commit": "[Style_Changes] ",
+        "fileName": "n7.txt",
+        "date_of_commit": "12 - 2 - 2024",
+        "time_of_commit": "11:50:48"
+      },
+      {
         "msg": "tempmsg",
         "type_of_commit": "[Bug_Fix] (hi)",
         "fileName": "n7.txt",
@@ -140,13 +147,6 @@
         "fileName": "n7.txt",
         "date_of_commit": "13 - 2 - 2024",
         "time_of_commit": "15:17:24"
-      },
-      {
-        "msg": "check up",
-        "type_of_commit": "[undefined] ",
-        "fileName": "n7.txt",
-        "date_of_commit": "13 - 2 - 2024",
-        "time_of_commit": "15:22:25"
       }
     ],
     "n9.txt": [
