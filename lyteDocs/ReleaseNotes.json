@@ -57,18 +57,18 @@
         "time_of_commit": "11:09:20"
       },
       {
-        "msg": "changes n5",
-        "type_of_commit": "[Style_Changes] ",
-        "fileName": "n5.txt",
-        "date_of_commit": "12 - 2 - 2024",
-        "time_of_commit": "11:50:41"
-      },
-      {
         "msg": "test",
         "type_of_commit": "[Refactor] ",
         "fileName": "n5.txt",
         "date_of_commit": "12 - 2 - 2024",
         "time_of_commit": "15:27:53"
+      },
+      {
+        "msg": "changes n5",
+        "type_of_commit": "[undefined] ",
+        "fileName": "n5.txt",
+        "date_of_commit": "13 - 2 - 2024",
+        "time_of_commit": "12:59:59"
       }
     ],
     "n6.txt": [
