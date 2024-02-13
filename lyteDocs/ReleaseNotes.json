@@ -191,6 +191,13 @@
         "fileName": "n9.txt",
         "date_of_commit": "13 - 2 - 2024",
         "time_of_commit": "12:30:41"
+      },
+      {
+        "msg": "thamimraj",
+        "type_of_commit": "[Bug_Fix] (t1)",
+        "fileName": "n9.txt",
+        "date_of_commit": "13 - 2 - 2024",
+        "time_of_commit": "16:54:52"
       }
     ],
     "n8.txt": [
