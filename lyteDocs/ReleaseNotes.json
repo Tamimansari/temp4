@@ -135,6 +135,13 @@
         "fileName": "n9.txt",
         "date_of_commit": "12 - 2 - 2024",
         "time_of_commit": "18:18:23"
+      },
+      {
+        "msg": "thamim name added",
+        "type_of_commit": "[Style_Changes] ",
+        "fileName": "n9.txt",
+        "date_of_commit": "13 - 2 - 2024",
+        "time_of_commit": "10:55:56"
       }
     ],
     "n8.txt": [
@@ -144,6 +151,13 @@
         "fileName": "n8.txt",
         "date_of_commit": "12 - 2 - 2024",
         "time_of_commit": "18:18:49"
+      },
+      {
+        "msg": "naveen name added",
+        "type_of_commit": "[Refactor] ",
+        "fileName": "n8.txt",
+        "date_of_commit": "13 - 2 - 2024",
+        "time_of_commit": "10:56:59"
       }
     ]
   }
