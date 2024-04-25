@@ -8,15 +8,6 @@
         "date_of_commit": "25 - 4 - 2024",
         "time_of_commit": "11:35:15"
       }
-    ],
-    "n5.txt": [
-      {
-        "msg": "check",
-        "type_of_commit": "[BUGFIX]",
-        "fileName": "n5.txt",
-        "date_of_commit": "25 - 4 - 2024",
-        "time_of_commit": "16:13:47"
-      }
     ]
   }
 }
