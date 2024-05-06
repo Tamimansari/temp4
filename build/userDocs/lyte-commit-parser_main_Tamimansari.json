@@ -9,51 +9,24 @@
         "time_of_commit": "11:35:15"
       }
     ],
-    "n8.txt": [
+    "multiplefiles": [
       {
-        "msg": "testing concept",
-        "type_of_commit": "[TEST]",
-        "fileName": "n8.txt",
+        "msg": "new msg added",
+        "type_of_commit": "[BUGFIX]",
+        "fileName": [
+          "n5.txt"
+        ],
         "date_of_commit": "25 - 4 - 2024",
-        "time_of_commit": "11:40:56"
+        "time_of_commit": "16:29:06"
       }
     ],
     "n5.txt": [
       {
-        "msg": "checking for revert",
+        "msg": "new1",
         "type_of_commit": "[BUGFIX]",
         "fileName": "n5.txt",
         "date_of_commit": "25 - 4 - 2024",
-        "time_of_commit": "11:42:22"
-      }
-    ],
-    "lyteDocs/ReleaseNotes.json": [
-      {
-        "msg": "delete",
-        "type_of_commit": "[BUGFIX]",
-        "fileName": "ReleaseNotes.json",
-        "date_of_commit": "25 - 4 - 2024",
-        "time_of_commit": "14:44:40"
-      }
-    ],
-    "test.txt": [
-      {
-        "msg": "name",
-        "type_of_commit": "[TEST]",
-        "fileName": "test.txt",
-        "date_of_commit": "25 - 4 - 2024",
-        "time_of_commit": "14:51:03"
-      }
-    ]
-  },
-  "1.2.2": {
-    "n9.txt": [
-      {
-        "msg": "version check",
-        "type_of_commit": "[STYLECHANGES]",
-        "fileName": "n9.txt",
-        "date_of_commit": "25 - 4 - 2024",
-        "time_of_commit": "11:41:40"
+        "time_of_commit": "16:41:56"
       }
     ]
   }
