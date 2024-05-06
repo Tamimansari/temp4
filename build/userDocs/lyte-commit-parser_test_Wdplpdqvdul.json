@@ -18,6 +18,15 @@
         ],
         "date_of_commit": "6 - 5 - 2024",
         "time_of_commit": "12:52:10"
+      },
+      {
+        "msg": "common",
+        "type_of_commit": "[BUGFIX]",
+        "fileName": [
+          "n5.txt"
+        ],
+        "date_of_commit": "6 - 5 - 2024",
+        "time_of_commit": "13:00:05"
       }
     ]
   }
