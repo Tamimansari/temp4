@@ -5,6 +5,11 @@ function(){
     console.log('test1')
 }
 
+function(){
+    console.log('test4');
+    console.log('test4');
+    console.log('test4');
+}
 
 function(){
     console.log('test2')
