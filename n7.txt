@@ -4,4 +4,7 @@
     console.log("hi);
     console.log("hi);
     console.log("hi);
+    if(true){
+      console.log("true);
+    }
   }  
