@@ -43,6 +43,13 @@
         "fileName": "n5.txt",
         "date_of_commit": "9 - 5 - 2024",
         "time_of_commit": "16:15:57"
+      },
+      {
+        "msg": "reset",
+        "type_of_commit": "[TEST]",
+        "fileName": "n5.txt",
+        "date_of_commit": "9 - 5 - 2024",
+        "time_of_commit": "16:19:44"
       }
     ]
   }
