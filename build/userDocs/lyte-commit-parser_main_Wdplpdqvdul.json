@@ -14,6 +14,13 @@
         "fileName": "n9.txt",
         "date_of_commit": "9 - 5 - 2024",
         "time_of_commit": "16:49:54"
+      },
+      {
+        "msg": "test",
+        "type_of_commit": "[BUGFIX]",
+        "fileName": "n9.txt",
+        "date_of_commit": "9 - 5 - 2024",
+        "time_of_commit": "16:51:45"
       }
     ],
     "multiplefiles": [
