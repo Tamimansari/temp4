@@ -19,5 +19,7 @@ function(){
             console.log('main test log')
             console.log('new test')
         }
+    } else {
+        console.log('test else')
     }
 }
