@@ -13,4 +13,7 @@ function(){
 
 function(){
     console.log('test2')
+    if(true){
+        console.log('test3')
+    }
 }
