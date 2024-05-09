@@ -8,6 +8,17 @@
         "date_of_commit": "8 - 5 - 2024",
         "time_of_commit": "10:49:06"
       }
+    ],
+    "multiplefiles": [
+      {
+        "msg": "test",
+        "type_of_commit": "[BUGFIX]",
+        "fileName": [
+          "n9.txt"
+        ],
+        "date_of_commit": "9 - 5 - 2024",
+        "time_of_commit": "15:50:13"
+      }
     ]
   }
 }

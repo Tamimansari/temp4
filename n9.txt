@@ -1,6 +1,11 @@
 hi nanba thamim ansari thamim ans sssss gitreset check added    
 
 
+
+
+
+
+
 function testMerge(){
 
     log('master branch);
@@ -14,3 +19,9 @@ function testMerge(){
     }
 
 }
+
+
+a8d7486 [bugfix] test else added
+a0969b0 [bugfix] new log in temp added
+c0276b6 [bugfix] new log in main added
+79094f9 [bugfix] test 3 check added
