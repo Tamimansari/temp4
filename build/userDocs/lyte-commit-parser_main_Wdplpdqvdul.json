@@ -45,6 +45,15 @@
         ],
         "date_of_commit": "9 - 5 - 2024",
         "time_of_commit": "16:21:51"
+      },
+      {
+        "msg": "component test",
+        "type_of_commit": "[TEST]",
+        "fileName": [
+          "n7.txt"
+        ],
+        "date_of_commit": "9 - 5 - 2024",
+        "time_of_commit": "16:25:24"
       }
     ],
     "n5.txt": [
