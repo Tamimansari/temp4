@@ -78,6 +78,15 @@
         "date_of_commit": "9 - 5 - 2024",
         "time_of_commit": "16:19:44"
       }
+    ],
+    "n8.txt": [
+      {
+        "msg": "direct command check",
+        "type_of_commit": "[BUGFIX]",
+        "fileName": "n8.txt",
+        "date_of_commit": "9 - 5 - 2024",
+        "time_of_commit": "16:27:39"
+      }
     ]
   }
 }
