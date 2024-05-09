@@ -5,4 +5,8 @@ function testMerge(){
 
     log('master branch);
 
+    if(testTrue){
+        log('from test branch');
+    }
+
 }
