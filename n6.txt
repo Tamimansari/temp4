@@ -13,5 +13,8 @@ function(){
         if(true){
             console.log('new test')
         }
+        if(true){
+            console.log('second test');
+        }
     }
 }
