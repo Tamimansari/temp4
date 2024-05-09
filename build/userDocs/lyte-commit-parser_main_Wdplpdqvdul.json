@@ -84,6 +84,13 @@
         "fileName": "n5.txt",
         "date_of_commit": "9 - 5 - 2024",
         "time_of_commit": "16:19:44"
+      },
+      {
+        "msg": "new1",
+        "type_of_commit": "[BUGFIX]",
+        "fileName": "n5.txt",
+        "date_of_commit": "9 - 5 - 2024",
+        "time_of_commit": "16:51:22"
       }
     ],
     "n8.txt": [
@@ -93,6 +100,13 @@
         "fileName": "n8.txt",
         "date_of_commit": "9 - 5 - 2024",
         "time_of_commit": "16:27:39"
+      },
+      {
+        "msg": "testing concept",
+        "type_of_commit": "[TEST]",
+        "fileName": "n8.txt",
+        "date_of_commit": "9 - 5 - 2024",
+        "time_of_commit": "16:51:23"
       }
     ],
     "n7.txt": [
