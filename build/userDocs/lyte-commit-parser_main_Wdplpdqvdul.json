@@ -27,6 +27,15 @@
         ],
         "date_of_commit": "9 - 5 - 2024",
         "time_of_commit": "15:54:49"
+      },
+      {
+        "msg": "check on type",
+        "type_of_commit": "[BUGFIX]",
+        "fileName": [
+          "n7.txt"
+        ],
+        "date_of_commit": "9 - 5 - 2024",
+        "time_of_commit": "16:20:31"
       }
     ],
     "n5.txt": [
