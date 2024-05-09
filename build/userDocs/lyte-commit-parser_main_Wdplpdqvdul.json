@@ -7,6 +7,13 @@
         "fileName": "n9.txt",
         "date_of_commit": "8 - 5 - 2024",
         "time_of_commit": "10:49:06"
+      },
+      {
+        "msg": "test",
+        "type_of_commit": "[BUGFIX]",
+        "fileName": "n9.txt",
+        "date_of_commit": "9 - 5 - 2024",
+        "time_of_commit": "16:49:54"
       }
     ],
     "multiplefiles": [
@@ -86,6 +93,15 @@
         "fileName": "n8.txt",
         "date_of_commit": "9 - 5 - 2024",
         "time_of_commit": "16:27:39"
+      }
+    ],
+    "n7.txt": [
+      {
+        "msg": "ceck",
+        "type_of_commit": "[BUGFIX]",
+        "fileName": "n7.txt",
+        "date_of_commit": "9 - 5 - 2024",
+        "time_of_commit": "16:49:49"
       }
     ]
   }
