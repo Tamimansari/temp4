@@ -15,6 +15,7 @@ function(){
         }
         if(true){
             console.log('second test');
+            console.log('second test1');
         }
     }
 }
