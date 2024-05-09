@@ -7,6 +7,9 @@ function testMerge(){
 
     if(testTrue){
         log('from test branch');
+        if(newCheck){
+            log('new check');
+        }
     }
 
 }
