@@ -8,6 +8,17 @@
         "date_of_commit": "8 - 5 - 2024",
         "time_of_commit": "10:46:36"
       }
+    ],
+    "multiplefiles": [
+      {
+        "msg": "check for release notes -> naanthan",
+        "type_of_commit": "[BUGFIX]",
+        "fileName": [
+          "test.txt"
+        ],
+        "date_of_commit": "10 - 5 - 2024",
+        "time_of_commit": "18:57:17"
+      }
     ]
   }
 }
