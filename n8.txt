@@ -1,1 +1,5 @@
    Hi nanba naveen name added ansari thamim ans usingGitReset   hi            
+
+     function name(){
+    console.log("name");
+  }

@@ -29,5 +29,18 @@
         "time_of_commit": "10:46:36"
       }
     ]
+  },
+  "1.1.1": {
+    "multiplefiles": [
+      {
+        "msg": "test func name",
+        "type_of_commit": "[BUGFIX]",
+        "fileName": [
+          "n8.txt"
+        ],
+        "date_of_commit": "13 - 5 - 2024",
+        "time_of_commit": "15:58:11"
+      }
+    ]
   }
 }
