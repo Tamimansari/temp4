@@ -68,6 +68,15 @@
         ],
         "date_of_commit": "9 - 5 - 2024",
         "time_of_commit": "16:25:24"
+      },
+      {
+        "msg": "tempfunction in main",
+        "type_of_commit": "[BUGFIX]",
+        "fileName": [
+          "t2.txt"
+        ],
+        "date_of_commit": "13 - 5 - 2024",
+        "time_of_commit": "11:05:06"
       }
     ],
     "n5.txt": [
