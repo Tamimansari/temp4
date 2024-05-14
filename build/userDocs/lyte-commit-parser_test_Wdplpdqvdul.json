@@ -28,6 +28,17 @@
         "date_of_commit": "8 - 5 - 2024",
         "time_of_commit": "10:46:36"
       }
+    ],
+    "multiplefiles": [
+      {
+        "msg": "name() function added",
+        "type_of_commit": "[BUGFIX]",
+        "fileName": [
+          "test.txt"
+        ],
+        "date_of_commit": "14 - 5 - 2024",
+        "time_of_commit": "10:56:17"
+      }
     ]
   },
   "1.1.1": {
