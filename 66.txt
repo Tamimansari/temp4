@@ -1,1 +1,5 @@
 name added
+
+function name(){
+    console.log(" hi ");
+}
