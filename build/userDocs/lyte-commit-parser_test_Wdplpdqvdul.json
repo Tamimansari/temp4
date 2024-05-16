@@ -47,6 +47,15 @@
         ],
         "date_of_commit": "15 - 5 - 2024",
         "time_of_commit": "16:11:52"
+      },
+      {
+        "msg": "ages",
+        "type_of_commit": "[BUGFIX]",
+        "fileName": [
+          "66.txt"
+        ],
+        "date_of_commit": "16 - 5 - 2024",
+        "time_of_commit": "17:27:16"
       }
     ]
   },

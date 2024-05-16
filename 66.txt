@@ -3,3 +3,7 @@ name added
 function name(){
     console.log(" hi ");
 }
+
+function ages(){
+    
+}
