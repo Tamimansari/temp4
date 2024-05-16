@@ -10,15 +10,6 @@
         ],
         "date_of_commit": "15 - 5 - 2024",
         "time_of_commit": "18:51:12"
-      },
-      {
-        "msg": "commit added",
-        "type_of_commit": "[BUGFIX]",
-        "fileName": [
-          "66.txt"
-        ],
-        "date_of_commit": "16 - 5 - 2024",
-        "time_of_commit": "11:24:39"
       }
     ]
   }
