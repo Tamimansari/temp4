@@ -57,6 +57,17 @@
         "date_of_commit": "16 - 5 - 2024",
         "time_of_commit": "17:27:16"
       }
+    ],
+    "components": [
+      {
+        "msg": "check for conflicts",
+        "type_of_commit": "[BUGFIX]",
+        "fileName": [
+          "66.txt"
+        ],
+        "date_of_commit": "17 - 5 - 2024",
+        "time_of_commit": "15:21:09"
+      }
     ]
   },
   "1.1.1": {

@@ -1,7 +1,9 @@
 name added
 
 function name(){
-    console.log(" hi ");
+    if(true){
+        
+    }
 }
 
 function ages(){
