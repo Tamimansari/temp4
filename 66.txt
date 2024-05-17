@@ -7,7 +7,9 @@ function name(){
 }
 
 function ages(){
-    
+    if(true){
+        
+    }
 }
 
 console.log(" hi ");
