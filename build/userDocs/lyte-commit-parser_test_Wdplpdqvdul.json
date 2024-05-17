@@ -56,6 +56,15 @@
         ],
         "date_of_commit": "16 - 5 - 2024",
         "time_of_commit": "17:27:16"
+      },
+      {
+        "msg": "test for console",
+        "type_of_commit": "[BUGFIX]",
+        "fileName": [
+          "66.txt"
+        ],
+        "date_of_commit": "17 - 5 - 2024",
+        "time_of_commit": "16:34:39"
       }
     ],
     "components": [

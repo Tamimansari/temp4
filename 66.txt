@@ -9,3 +9,5 @@ function name(){
 function ages(){
     
 }
+
+console.log(" hi ");
