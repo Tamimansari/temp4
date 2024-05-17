@@ -68,6 +68,17 @@
         "date_of_commit": "17 - 5 - 2024",
         "time_of_commit": "15:21:09"
       }
+    ],
+    "component": [
+      {
+        "msg": "nameSpace function added",
+        "type_of_commit": "[BUGFIX]",
+        "fileName": [
+          "n6.txt"
+        ],
+        "date_of_commit": "17 - 5 - 2024",
+        "time_of_commit": "15:32:15"
+      }
     ]
   },
   "1.1.1": {
