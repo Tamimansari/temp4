@@ -65,6 +65,15 @@
         ],
         "date_of_commit": "17 - 5 - 2024",
         "time_of_commit": "16:34:39"
+      },
+      {
+        "msg": "test for romote",
+        "type_of_commit": "[BUGFIX]",
+        "fileName": [
+          "66.txt"
+        ],
+        "date_of_commit": "23 - 5 - 2024",
+        "time_of_commit": "17:44:03"
       }
     ],
     "components": [
