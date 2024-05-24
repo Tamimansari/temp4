@@ -8,6 +8,9 @@ function name(){
 
 function ages(){
     console.log("jo")
+    if(flase){
+        
+    }
     if(true){
         
     }
