@@ -8,6 +8,7 @@ function name(){
 
 function ages(){
     console.log("jo")
+    console.log("empty");
     if(flase){
         
     }
