@@ -110,6 +110,15 @@
         ],
         "date_of_commit": "24 - 5 - 2024",
         "time_of_commit": "11:05:32"
+      },
+      {
+        "msg": "test console log",
+        "type_of_commit": "[BUGFIX]",
+        "fileName": [
+          "n9.txt"
+        ],
+        "date_of_commit": "27 - 5 - 2024",
+        "time_of_commit": "11:44:20"
       }
     ],
     "components": [

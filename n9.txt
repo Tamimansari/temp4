@@ -11,5 +11,6 @@ function testMerge(){
             log('new check');
         }
     }
+    console.log("hi");
 
 }
