@@ -16,5 +16,5 @@ function ages(){
         
     }
 }
-
+console.log("no -r");
 console.log(" hi ");   
