@@ -156,5 +156,18 @@
         "time_of_commit": "15:58:11"
       }
     ]
+  },
+  "1.2.2": {
+    "multiplefiles": [
+      {
+        "msg": "console added",
+        "type_of_commit": "[BUGFIX]",
+        "fileName": [
+          "66.txt"
+        ],
+        "date_of_commit": "27 - 5 - 2024",
+        "time_of_commit": "13:08:55"
+      }
+    ]
   }
 }
