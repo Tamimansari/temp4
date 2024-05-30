@@ -3,3 +3,4 @@ hi hello
 function (){
     console.log("hi")
 }
+console.log("h")
