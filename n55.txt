@@ -4,3 +4,4 @@ function (){
     console.log("hi")
 }
 console.log("h")
+\[BUGFIX\] ([^\[]+) -> \[.*\]|-> \[TEST\] ([^\[]+)

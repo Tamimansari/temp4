@@ -164,6 +164,15 @@
         ],
         "date_of_commit": "30 - 5 - 2024",
         "time_of_commit": "14:54:59"
+      },
+      {
+        "msg": "test for regex",
+        "type_of_commit": "[BUGFIX]",
+        "fileName": [
+          "n55.txt"
+        ],
+        "date_of_commit": "30 - 5 - 2024",
+        "time_of_commit": "17:24:07"
       }
     ],
     "components": [
