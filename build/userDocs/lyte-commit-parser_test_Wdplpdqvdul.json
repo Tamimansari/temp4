@@ -146,6 +146,15 @@
         ],
         "date_of_commit": "30 - 5 - 2024",
         "time_of_commit": "14:47:58"
+      },
+      {
+        "msg": "console added",
+        "type_of_commit": "[TEST]",
+        "fileName": [
+          "66.txt"
+        ],
+        "date_of_commit": "30 - 5 - 2024",
+        "time_of_commit": "14:51:08"
       }
     ],
     "components": [
