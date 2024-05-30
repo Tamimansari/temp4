@@ -137,6 +137,15 @@
         ],
         "date_of_commit": "29 - 5 - 2024",
         "time_of_commit": "15:49:30"
+      },
+      {
+        "msg": "empty space",
+        "type_of_commit": "[TEST]",
+        "fileName": [
+          "n7.txt"
+        ],
+        "date_of_commit": "30 - 5 - 2024",
+        "time_of_commit": "14:47:58"
       }
     ],
     "components": [
