@@ -84,5 +84,43 @@
         "time_of_commit": "19:09:53"
       }
     ]
+  },
+  "3.3.3": {
+    "n7.txt": [
+      {
+        "msg": "n7",
+        "type_of_commit": "[TEST]",
+        "fileName": "n7.txt",
+        "date_of_commit": "8 - 5 - 2024",
+        "time_of_commit": "10:50:06"
+      }
+    ],
+    "n8.txt": [
+      {
+        "msg": "n8",
+        "type_of_commit": "[TEST]",
+        "fileName": "n8.txt",
+        "date_of_commit": "8 - 5 - 2024",
+        "time_of_commit": "10:51:06"
+      }
+    ],
+    "n9.txt": [
+      {
+        "msg": "n9",
+        "type_of_commit": "[TEST]",
+        "fileName": "n9.txt",
+        "date_of_commit": "8 - 5 - 2024",
+        "time_of_commit": "10:49:06"
+      }
+    ],
+    "n6.txt": [
+      {
+        "msg": "n6",
+        "type_of_commit": "[BUGFIX]",
+        "fileName": "n6.txt",
+        "date_of_commit": "8 - 5 - 2024",
+        "time_of_commit": "10:46:36"
+      }
+    ]
   }
 }
