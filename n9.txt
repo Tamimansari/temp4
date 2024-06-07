@@ -12,5 +12,5 @@ function testMerge(){
             log('new check');
         }
     }
-
-}
+ // for normal reset
+}  
