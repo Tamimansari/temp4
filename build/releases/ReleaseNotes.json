@@ -129,6 +129,14 @@
         "fileName": "n6.txt,67.txt",
         "date_of_commit": "8 - 5 - 2024",
         "time_of_commit": "10:46:36"
+      },
+      {
+        "msg": "n6",
+        "type_of_commit": "[BUGFIX]",
+        "fileName": "n6.txt,67.txt",
+        "date_of_commit": "8 - 5 - 2024",
+        "time_of_commit": "10:46:36",
+        "commithash":"12345"
       }
     ]
   }
