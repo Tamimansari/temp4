@@ -4,4 +4,4 @@
     console.log("name");   
   } 
 
-  funcction   
+  funcction     
