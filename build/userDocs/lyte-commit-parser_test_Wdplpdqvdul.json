@@ -37,6 +37,18 @@
         "time_of_commit": "18:11:24",
         "hash_of_commit": "ccedc83"
       }
+    ],
+    "multiplefiles": [
+      {
+        "msg": "test for cherry pick",
+        "type_of_commit": "[BUGFIX]",
+        "fileName": [
+          "n7.txt"
+        ],
+        "date_of_commit": "11 - 6 - 2024",
+        "time_of_commit": "19:03:59",
+        "hash_of_commit": "ed23827"
+      }
     ]
   }
 }
