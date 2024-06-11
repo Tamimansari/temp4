@@ -37,6 +37,19 @@
         "time_of_commit": "12:50:27",
         "hash_of_commit": "18456ca"
       }
+    ],
+    "multiplefiles": [
+      {
+        "msg": "test check",
+        "type_of_commit": "[BUGFIX]",
+        "fileName": [
+          "66.txt",
+          "n5.txt"
+        ],
+        "date_of_commit": "11 - 6 - 2024",
+        "time_of_commit": "18:25:49",
+        "hash_of_commit": "1bf749d"
+      }
     ]
   }
 }
