@@ -6,6 +6,9 @@ function name(){
     }
 }
 console.log("hi nanba in 1.2.2 version");
+
+
+
 function ages(){
     console.log("jo")
     console.log("empty");
