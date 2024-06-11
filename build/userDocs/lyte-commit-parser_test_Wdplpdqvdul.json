@@ -27,6 +27,16 @@
         "time_of_commit": "16:22:41",
         "hash_of_commit": "8bfb548"
       }
+    ],
+    "n7.txt": [
+      {
+        "msg": "test for hard reset",
+        "type_of_commit": "[BUGFIX]",
+        "fileName": "n7.txt",
+        "date_of_commit": "11 - 6 - 2024",
+        "time_of_commit": "18:11:24",
+        "hash_of_commit": "ccedc83"
+      }
     ]
   }
 }
