@@ -16,6 +16,14 @@
         "date_of_commit": "11 - 6 - 2024",
         "time_of_commit": "12:26:43",
         "hash_of_commit": "57e1fc8"
+      },
+      {
+        "msg": "testcomponent n55",
+        "type_of_commit": "[BUGFIX]",
+        "fileName": "n55.txt",
+        "date_of_commit": "11 - 6 - 2024",
+        "time_of_commit": "18:26:01",
+        "hash_of_commit": "af1fa07"
       }
     ],
     "n6.txt": [
@@ -49,6 +57,16 @@
         "date_of_commit": "11 - 6 - 2024",
         "time_of_commit": "18:25:49",
         "hash_of_commit": "1bf749d"
+      }
+    ],
+    "n8.txt": [
+      {
+        "msg": "check",
+        "type_of_commit": "[TEST]",
+        "fileName": "n8.txt",
+        "date_of_commit": "11 - 6 - 2024",
+        "time_of_commit": "18:26:08",
+        "hash_of_commit": "af1fa07"
       }
     ]
   }
