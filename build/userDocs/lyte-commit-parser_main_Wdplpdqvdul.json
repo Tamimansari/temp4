@@ -37,16 +37,6 @@
         "time_of_commit": "12:50:27",
         "hash_of_commit": "18456ca"
       }
-    ],
-    "66.txt": [
-      {
-        "msg": "name added in 19",
-        "type_of_commit": "[BUGFIX]",
-        "fileName": "66.txt",
-        "date_of_commit": "11 - 6 - 2024",
-        "time_of_commit": "15:15:50",
-        "hash_of_commit": "8df80aa"
-      }
     ]
   }
 }
