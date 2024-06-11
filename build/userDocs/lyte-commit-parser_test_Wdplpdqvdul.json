@@ -18,6 +18,14 @@
         "date_of_commit": "11 - 6 - 2024",
         "time_of_commit": "16:12:36",
         "hash_of_commit": "6670680"
+      },
+      {
+        "msg": "test",
+        "type_of_commit": "[BUGFIX]",
+        "fileName": "n8.txt",
+        "date_of_commit": "11 - 6 - 2024",
+        "time_of_commit": "16:22:41",
+        "hash_of_commit": "8bfb548"
       }
     ]
   }
