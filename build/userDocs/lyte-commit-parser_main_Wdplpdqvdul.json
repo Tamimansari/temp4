@@ -17,6 +17,16 @@
         "time_of_commit": "12:26:43",
         "hash_of_commit": "57e1fc8"
       }
+    ],
+    "n6.txt": [
+      {
+        "msg": "temp concept",
+        "type_of_commit": "[TEST]",
+        "fileName": "n6.txt",
+        "date_of_commit": "11 - 6 - 2024",
+        "time_of_commit": "12:44:43",
+        "hash_of_commit": "1cae403"
+      }
     ]
   }
 }
