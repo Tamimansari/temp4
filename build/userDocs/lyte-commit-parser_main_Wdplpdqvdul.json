@@ -27,7 +27,14 @@
         "time_of_commit": "12:44:43",
         "hash_of_commit": "1cae403"
       },
-      null
+      {
+        "msg": "test",
+        "type_of_commit": "[TEST]",
+        "fileName": "n6.txt",
+        "date_of_commit": "11 - 6 - 2024",
+        "time_of_commit": "12:59:17",
+        "hash_of_commit": "b350d2c"
+      }
     ],
     "n7.txt": [
       {
