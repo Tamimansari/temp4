@@ -34,6 +34,14 @@
         "date_of_commit": "11 - 6 - 2024",
         "time_of_commit": "12:44:43",
         "hash_of_commit": "1cae403"
+      },
+      {
+        "msg": "test",
+        "type_of_commit": "[TEST]",
+        "fileName": "n6.txt",
+        "date_of_commit": "12 - 6 - 2024",
+        "time_of_commit": "13:15:09",
+        "hash_of_commit": "43bc926"
       }
     ],
     "n7.txt": [
@@ -107,6 +115,14 @@
         "date_of_commit": "12 - 6 - 2024",
         "time_of_commit": "12:44:44",
         "hash_of_commit": "acedfe4"
+      },
+      {
+        "msg": "mmfile",
+        "type_of_commit": "[STYLECHANGES]",
+        "fileName": "mm.txt",
+        "date_of_commit": "12 - 6 - 2024",
+        "time_of_commit": "13:15:08",
+        "hash_of_commit": "43bc926"
       }
     ],
     "n5.txt": [
