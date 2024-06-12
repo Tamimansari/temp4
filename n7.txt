@@ -10,4 +10,10 @@
     }
   }  
 
-  my nmae
+
+
+  consoel.log("my name added");
+
+
+
+  console.log("hiii");
