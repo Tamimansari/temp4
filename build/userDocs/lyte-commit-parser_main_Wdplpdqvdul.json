@@ -79,6 +79,14 @@
         "date_of_commit": "12 - 6 - 2024",
         "time_of_commit": "12:24:23",
         "hash_of_commit": "d70b9f5"
+      },
+      {
+        "msg": "check fot out of lt commits",
+        "type_of_commit": "[TEST]",
+        "fileName": "",
+        "date_of_commit": "12 - 6 - 2024",
+        "time_of_commit": "12:35:08",
+        "hash_of_commit": "81e054f"
       }
     ],
     "n8.txt": [
