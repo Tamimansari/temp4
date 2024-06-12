@@ -23,6 +23,30 @@
         "time_of_commit": "16:00:52",
         "hash_of_commit": "7df44d8"
       }
+    ],
+    "n8.txt": [
+      {
+        "msg": "check",
+        "type_of_commit": "[FEATURE]",
+        "fileName": [
+          "n8.txt"
+        ],
+        "date_of_commit": "12 - 6 - 2024",
+        "time_of_commit": "16:09:26",
+        "hash_of_commit": "3032443"
+      }
+    ],
+    "t2.txt": [
+      {
+        "msg": "check",
+        "type_of_commit": "[BUGFIX]",
+        "fileName": [
+          "t2.txt"
+        ],
+        "date_of_commit": "12 - 6 - 2024",
+        "time_of_commit": "16:09:27",
+        "hash_of_commit": "3032443"
+      }
     ]
   }
 }
