@@ -98,6 +98,26 @@
         "time_of_commit": "18:26:08",
         "hash_of_commit": "af1fa07"
       }
+    ],
+    "mm.txt": [
+      {
+        "msg": "mmfile",
+        "type_of_commit": "[STYLECHANGES]",
+        "fileName": "mm.txt",
+        "date_of_commit": "12 - 6 - 2024",
+        "time_of_commit": "12:44:44",
+        "hash_of_commit": "acedfe4"
+      }
+    ],
+    "n5.txt": [
+      {
+        "msg": "commit for n5",
+        "type_of_commit": "[TEST]",
+        "fileName": "n5.txt",
+        "date_of_commit": "12 - 6 - 2024",
+        "time_of_commit": "12:44:45",
+        "hash_of_commit": "acedfe4"
+      }
     ]
   }
 }
