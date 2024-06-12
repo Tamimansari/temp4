@@ -69,6 +69,16 @@
         "date_of_commit": "11 - 6 - 2024",
         "time_of_commit": "18:26:45",
         "hash_of_commit": "2dbf00c"
+      },
+      {
+        "msg": "check for cherry pick",
+        "type_of_commit": "[TEST]",
+        "fileName": [
+          "n7.txt"
+        ],
+        "date_of_commit": "12 - 6 - 2024",
+        "time_of_commit": "12:24:23",
+        "hash_of_commit": "d70b9f5"
       }
     ],
     "n8.txt": [
