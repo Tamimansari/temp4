@@ -23,6 +23,42 @@
         "time_of_commit": "16:09:27",
         "hash_of_commit": "3032443"
       }
+    ],
+    "66.txt": [
+      {
+        "msg": "new msg for soft reset",
+        "type_of_commit": "[FEATURE]",
+        "fileName": [
+          "66.txt"
+        ],
+        "date_of_commit": "12 - 6 - 2024",
+        "time_of_commit": "16:55:42",
+        "hash_of_commit": "0025bbb"
+      }
+    ],
+    "n6.txt": [
+      {
+        "msg": "test",
+        "type_of_commit": "[TEST]",
+        "fileName": [
+          "n6.txt"
+        ],
+        "date_of_commit": "12 - 6 - 2024",
+        "time_of_commit": "16:55:42",
+        "hash_of_commit": "0025bbb"
+      }
+    ],
+    "n7.txt": [
+      {
+        "msg": "soft reset",
+        "type_of_commit": "[TEST]",
+        "fileName": [
+          "n7.txt"
+        ],
+        "date_of_commit": "12 - 6 - 2024",
+        "time_of_commit": "16:55:42",
+        "hash_of_commit": "0025bbb"
+      }
     ]
   }
 }
