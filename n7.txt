@@ -8,11 +8,4 @@
       console.log("true);
     }
   }  
-
-
-
-  consoel.log("my name added");
-
-   
-
-  console.log("hiii");   
+  //for normal reset
