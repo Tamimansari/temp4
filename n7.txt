@@ -6,6 +6,6 @@
     console.log("hi);   
     if(true){   
       console.log("true);
-    }
+    }cccc
   }  
   //for normal reset
