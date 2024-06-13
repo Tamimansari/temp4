@@ -23,6 +23,18 @@
         "time_of_commit": "16:09:27",
         "hash_of_commit": "3032443"
       }
+    ],
+    "n5.txt": [
+      {
+        "msg": "n5 file testing",
+        "type_of_commit": "[BUGFIX]",
+        "fileName": [
+          "n5.txt"
+        ],
+        "date_of_commit": "13 - 6 - 2024",
+        "time_of_commit": "12:52:04",
+        "hash_of_commit": "e100854"
+      }
     ]
   }
 }
