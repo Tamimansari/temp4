@@ -172,6 +172,18 @@
         "time_of_commit": "18:37:22",
         "hash_of_commit": "fd945ea"
       }
+    ],
+    "multiplefiles": [
+      {
+        "msg": "test",
+        "type_of_commit": "[TEST]",
+        "fileName": [
+          "n8.txt"
+        ],
+        "date_of_commit": "1 - 7 - 2024",
+        "time_of_commit": "18:41:52",
+        "hash_of_commit": "4b09fe5"
+      }
     ]
   },
   "5.5.5": {
