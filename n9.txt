@@ -11,6 +11,8 @@ function testMerge(){
         if(newCheck){
             log('new check');
         }
+
+        
     }
  // for normal reset
 }  
