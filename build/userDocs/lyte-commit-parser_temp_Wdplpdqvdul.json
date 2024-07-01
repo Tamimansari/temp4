@@ -1,0 +1,16 @@
+{
+  "unpublishedVersion": {
+    "new": [
+      {
+        "msg": "level",
+        "type_of_commit": "[BUGFIX]",
+        "fileName": [
+          "n7.txt"
+        ],
+        "date_of_commit": "1 - 7 - 2024",
+        "time_of_commit": "18:10:46",
+        "hash_of_commit": "93fa6fd"
+      }
+    ]
+  }
+}
