@@ -120,6 +120,16 @@
         "fileName": "n6.txt",
         "date_of_commit": "8 - 5 - 2024",
         "time_of_commit": "10:46:36"
+      },
+      {
+        "msg": "test commit",
+        "type_of_commit": "[BUGFIX]",
+        "fileName": [
+          "n6.txt"
+        ],
+        "date_of_commit": "1 - 7 - 2024",
+        "time_of_commit": "18:03:41",
+        "hash_of_commit": "a83468a"
       }
     ],
     "components": [
@@ -137,6 +147,18 @@
         "date_of_commit": "8 - 5 - 2024",
         "time_of_commit": "10:46:36",
         "commithash": "12345"
+      }
+    ],
+    "common": [
+      {
+        "msg": "test map for single",
+        "type_of_commit": "[BUGFIX]",
+        "fileName": [
+          "n5.txt"
+        ],
+        "date_of_commit": "1 - 7 - 2024",
+        "time_of_commit": "18:03:35",
+        "hash_of_commit": "a83468a"
       }
     ]
   },
