@@ -160,6 +160,18 @@
         "time_of_commit": "18:03:35",
         "hash_of_commit": "a83468a"
       }
+    ],
+    "ttttt": [
+      {
+        "msg": "ertyuertyu",
+        "type_of_commit": "[BUGFIX]",
+        "fileName": [
+          "n6.txt"
+        ],
+        "date_of_commit": "1 - 7 - 2024",
+        "time_of_commit": "18:37:22",
+        "hash_of_commit": "fd945ea"
+      }
     ]
   },
   "5.5.5": {
