@@ -23,6 +23,30 @@
         "time_of_commit": "18:44:10",
         "hash_of_commit": "b307fb5"
       }
+    ],
+    "n5.txt": [
+      {
+        "msg": "check1",
+        "type_of_commit": "[BUGFIX]",
+        "fileName": [
+          "n5.txt"
+        ],
+        "date_of_commit": "18 - 7 - 2024",
+        "time_of_commit": "15:19:09",
+        "hash_of_commit": "64e0e33"
+      }
+    ],
+    "n6.txt": [
+      {
+        "msg": "check2",
+        "type_of_commit": "[TEST]",
+        "fileName": [
+          "n6.txt"
+        ],
+        "date_of_commit": "18 - 7 - 2024",
+        "time_of_commit": "15:19:16",
+        "hash_of_commit": "64e0e33"
+      }
     ]
   }
 }
