@@ -152,6 +152,16 @@
         "date_of_commit": "12 - 6 - 2024",
         "time_of_commit": "12:44:45",
         "hash_of_commit": "acedfe4"
+      },
+      {
+        "msg": "commit for cherry pick",
+        "type_of_commit": "[TEST]",
+        "fileName": [
+          "n5.txt"
+        ],
+        "date_of_commit": "27 - 8 - 2024",
+        "time_of_commit": "17:38:04",
+        "hash_of_commit": "ab73dbc"
       }
     ]
   }
