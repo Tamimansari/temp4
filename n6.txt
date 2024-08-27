@@ -1,26 +1,9 @@
-naven unk hi nav broker 2 nan      
+naven unk hi nav broker 2 nan        
 
 
-function(){
-    console.log('test1')
-}
 
-function(){
-    console.log('test4');
-    console.log('test4');
-    console.log('test4');
-}
 
-function(){
-    console.log('test2')
-    if(true){
-        console.log('test3')
-        if(true){
-            console.log('main test log')
-            console.log('new test')
-        }
-    } else {
-        console.log('test else')
-        console.log('test else1')
-    }
-}
+
+function nameSopace(){
+    console.log("hi");
+}           

@@ -1,5 +1,8 @@
 hi nav
 name thamim  
-function temp(){
-    console.log("hi);
-}
+
+function name(){
+    if(false){
+        console.log("hi");
+    }
+}   
