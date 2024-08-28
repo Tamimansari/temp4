@@ -1,4 +1,21 @@
   udfwouo ok  hi  ansarisdfads hi hello               
 
 
+<<<<<<< Updated upstream
+=======
+  function test(){
+    console.log("hi);
+    console.log("hi);
+    console.log("hi);
+    if(true){
+      console.log("true);
+      console.log("hi hello")
+    }
+  }  
+<<<<<<< Updated upstream
+=======
+  //for normal reset  
+       
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
 
