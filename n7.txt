@@ -12,6 +12,9 @@
       console.log("hi hello")
     }
   }  
+
+
+  
 <<<<<<< Updated upstream
 =======
   //for normal reset  
