@@ -114,6 +114,17 @@
         "date_of_commit": "27 - 8 - 2024",
         "time_of_commit": "17:35:33",
         "hash_of_commit": "0b6feb9"
+      },
+      {
+        "msg": "check commit",
+        "type_of_commit": "[BUGFIX]",
+        "fileName": [
+          "mm.txt",
+          "n7.txt"
+        ],
+        "date_of_commit": "30 - 8 - 2024",
+        "time_of_commit": "15:35:41",
+        "hash_of_commit": "ce55f5b"
       }
     ],
     "n8.txt": [
