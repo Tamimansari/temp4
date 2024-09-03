@@ -9,6 +9,10 @@ console.log("hi nanba in 1.2.2 version");
 
    
 
+
+
+   name added
+
 function ages(){
     console.log("jo")
     console.log("empty");
