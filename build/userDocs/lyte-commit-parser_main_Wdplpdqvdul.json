@@ -56,5 +56,20 @@
         "hash_of_commit": "85999ca"
       }
     ]
+  },
+  "4.5.6": {
+    "multiplefiles": [
+      {
+        "msg": "-d commits",
+        "type_of_commit": "[BUGFIX]",
+        "fileName": [
+          "n55.txt",
+          "test.txt"
+        ],
+        "date_of_commit": "1 - 10 - 2024",
+        "time_of_commit": "12:59:18",
+        "hash_of_commit": "389ff76"
+      }
+    ]
   }
 }
