@@ -1,0 +1,20 @@
+{
+  "1.2.3": {
+    "multiplefiles": [
+      {
+        "msg": "check",
+        "type_of_commit": "[BUGFIX]",
+        "fileName": [
+          "n5.txt",
+          "n8.txt",
+          "t2.txt",
+          "test.txt",
+          "utils.js"
+        ],
+        "date_of_commit": "1 - 10 - 2024",
+        "time_of_commit": "12:57:37",
+        "hash_of_commit": "d9735c9"
+      }
+    ]
+  }
+}
