@@ -1,4 +1,42 @@
 {
+  "3.4.6": {
+    "multiplefiles": [
+      {
+        "msg": "t",
+        "type_of_commit": "[BUGFIX]",
+        "fileName": [
+          "n55.txt"
+        ],
+        "date_of_commit": "1 - 10 - 2024",
+        "time_of_commit": "13:00:49",
+        "hash_of_commit": "378c6d8"
+      }
+    ],
+    "n6.txt": [
+      {
+        "msg": "temp",
+        "type_of_commit": "[TEST]",
+        "fileName": [
+          "n6.txt"
+        ],
+        "date_of_commit": "1 - 10 - 2024",
+        "time_of_commit": "12:58:38",
+        "hash_of_commit": "85999ca"
+      }
+    ],
+    "n7.txt": [
+      {
+        "msg": "check",
+        "type_of_commit": "[BUGFIX]",
+        "fileName": [
+          "n7.txt"
+        ],
+        "date_of_commit": "1 - 10 - 2024",
+        "time_of_commit": "12:58:42",
+        "hash_of_commit": "85999ca"
+      }
+    ]
+  },
   "1.2.3": {
     "multiplefiles": [
       {
@@ -28,32 +66,6 @@
         "date_of_commit": "1 - 10 - 2024",
         "time_of_commit": "12:58:17",
         "hash_of_commit": "5a33e52"
-      }
-    ]
-  },
-  "3.4.6": {
-    "n6.txt": [
-      {
-        "msg": "temp",
-        "type_of_commit": "[TEST]",
-        "fileName": [
-          "n6.txt"
-        ],
-        "date_of_commit": "1 - 10 - 2024",
-        "time_of_commit": "12:58:38",
-        "hash_of_commit": "85999ca"
-      }
-    ],
-    "n7.txt": [
-      {
-        "msg": "check",
-        "type_of_commit": "[BUGFIX]",
-        "fileName": [
-          "n7.txt"
-        ],
-        "date_of_commit": "1 - 10 - 2024",
-        "time_of_commit": "12:58:42",
-        "hash_of_commit": "85999ca"
       }
     ]
   },
