@@ -52,6 +52,16 @@
         "date_of_commit": "1 - 10 - 2024",
         "time_of_commit": "12:57:37",
         "hash_of_commit": "d9735c9"
+      },
+      {
+        "msg": "changes",
+        "type_of_commit": "[STYLECHANGES]",
+        "fileName": [
+          "n8.txt"
+        ],
+        "date_of_commit": "4 - 10 - 2024",
+        "time_of_commit": "18:44:57",
+        "hash_of_commit": "962ca0f"
       }
     ]
   },
