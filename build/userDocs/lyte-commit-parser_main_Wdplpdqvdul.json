@@ -13,5 +13,19 @@
         "hash_of_commit": "d45bda2"
       }
     ]
+  },
+  "3.4.6": {
+    "multiplefiles": [
+      {
+        "msg": "test commit",
+        "type_of_commit": "[BUGFIX]",
+        "fileName": [
+          "n5.txt"
+        ],
+        "date_of_commit": "7 - 10 - 2024",
+        "time_of_commit": "10:31:52",
+        "hash_of_commit": "a0c6107"
+      }
+    ]
   }
 }
