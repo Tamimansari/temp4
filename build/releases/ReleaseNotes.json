@@ -77,6 +77,18 @@
         "time_of_commit": "12:58:17",
         "hash_of_commit": "5a33e52"
       }
+    ],
+    "n8.txt": [
+      {
+        "msg": "commit n8 file",
+        "type_of_commit": "[BUGFIX]",
+        "fileName": [
+          "n8.txt"
+        ],
+        "date_of_commit": "8 - 10 - 2024",
+        "time_of_commit": "18:29:23",
+        "hash_of_commit": "5d2aaa6"
+      }
     ]
   },
   "4.5.6": {
