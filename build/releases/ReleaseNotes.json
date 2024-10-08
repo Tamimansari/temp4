@@ -92,6 +92,18 @@
         "time_of_commit": "12:59:18",
         "hash_of_commit": "389ff76"
       }
+    ],
+    "n55.txt": [
+      {
+        "msg": "commit to check",
+        "type_of_commit": "[BUGFIX]",
+        "fileName": [
+          "n55.txt"
+        ],
+        "date_of_commit": "8 - 10 - 2024",
+        "time_of_commit": "15:22:07",
+        "hash_of_commit": "61cdb2e"
+      }
     ]
   }
 }
