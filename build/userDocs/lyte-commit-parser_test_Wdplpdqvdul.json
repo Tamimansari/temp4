@@ -40,6 +40,16 @@
         "date_of_commit": "24 - 10 - 2024",
         "time_of_commit": "20:25:23",
         "hash_of_commit": "57c2543"
+      },
+      {
+        "msg": "tesr",
+        "type_of_commit": "[BUGFIX]",
+        "fileName": [
+          "component/new1.txt"
+        ],
+        "date_of_commit": "24 - 10 - 2024",
+        "time_of_commit": "20:27:48",
+        "hash_of_commit": "16f4c51"
       }
     ]
   }
