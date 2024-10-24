@@ -20,6 +20,16 @@
         "date_of_commit": "24 - 10 - 2024",
         "time_of_commit": "20:19:57",
         "hash_of_commit": "7fb6722"
+      },
+      {
+        "msg": "check",
+        "type_of_commit": "[BUGFIX]",
+        "fileName": [
+          "2.txt\""
+        ],
+        "date_of_commit": "24 - 10 - 2024",
+        "time_of_commit": "20:24:21",
+        "hash_of_commit": "4964598"
       }
     ]
   }
