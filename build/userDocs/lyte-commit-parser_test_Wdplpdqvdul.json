@@ -50,6 +50,16 @@
         "date_of_commit": "24 - 10 - 2024",
         "time_of_commit": "20:27:48",
         "hash_of_commit": "16f4c51"
+      },
+      {
+        "msg": "test commit for group",
+        "type_of_commit": "[BUGFIX]",
+        "fileName": [
+          "test.txt"
+        ],
+        "date_of_commit": "24 - 10 - 2024",
+        "time_of_commit": "20:29:39",
+        "hash_of_commit": "5e73ad9"
       }
     ]
   }
