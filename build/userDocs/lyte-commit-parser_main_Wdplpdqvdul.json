@@ -185,6 +185,22 @@
         "time_of_commit": "17:38:04",
         "hash_of_commit": "ab73dbc"
       }
+    ],
+    "singleFile": [
+      {
+        "msg": "time to new commit _ for content edit",
+        "type_of_commit": "[FEATURE]",
+        "fileName": [
+          "n",
+          "6",
+          ".",
+          "t",
+          "x"
+        ],
+        "date_of_commit": "20 - 11 - 2024",
+        "time_of_commit": "10:58:36",
+        "hash_of_commit": "812d488"
+      }
     ]
   }
 }
