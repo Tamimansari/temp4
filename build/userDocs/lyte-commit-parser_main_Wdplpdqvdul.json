@@ -125,6 +125,17 @@
         "date_of_commit": "30 - 8 - 2024",
         "time_of_commit": "15:35:41",
         "hash_of_commit": "ce55f5b"
+      },
+      {
+        "msg": "test commit fot ui check",
+        "type_of_commit": "[FEATURE]",
+        "fileName": [
+          "n5.txt",
+          "n8.txt"
+        ],
+        "date_of_commit": "3 - 12 - 2024",
+        "time_of_commit": "10:49:54",
+        "hash_of_commit": "663152c"
       }
     ],
     "n8.txt": [
