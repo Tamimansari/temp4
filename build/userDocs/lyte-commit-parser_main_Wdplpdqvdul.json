@@ -136,6 +136,17 @@
         "date_of_commit": "3 - 12 - 2024",
         "time_of_commit": "10:49:54",
         "hash_of_commit": "663152c"
+      },
+      {
+        "msg": "tese sample commit",
+        "type_of_commit": "[BUGFIX]",
+        "fileName": [
+          "n5.txt",
+          "n7.txt"
+        ],
+        "date_of_commit": "6 - 12 - 2024",
+        "time_of_commit": "18:20:55",
+        "hash_of_commit": "45f1247"
       }
     ],
     "n8.txt": [
