@@ -1,0 +1,113 @@
+hash : 4a8eab4 : commit :up : parrent : 8002e9f
+hash : 8002e9f : commit :66.txt,mm.txt,n55.txt : parrent : dac1247
+hash : dac1247 : commit :---[ce55f5b] Release Updated--- : parrent : ce55f5b
+hash : ce55f5b : commit :[BUGFIX] check commit : parrent : 7052f23
+hash : 7052f23 : commit :test commit : parrent : 5957a4f
+hash : 5957a4f : commit :added files : parrent : 2907648
+hash : 2907648 : commit :---[ab73dbc] Release Updated--- : parrent : ab73dbc
+hash : ab73dbc : commit :[TEST] commit for cherry pick : parrent : c6eb724
+hash : c6eb724 : commit :Merge remote-tracking branch 'refs/remotes/origin/main' : parrent : 0b6feb9 1454b73
+        hash : 1454b73 : commit :[FEATURE] new msg for soft reset  && [TEST] test  && [TEST] soft reset : parrent : 03304a5
+        hash : 03304a5 : commit :[TEST] commit for n5  [TEST] value revert : parrent : fc658ce
+        hash : fc658ce : commit :---[43bc926] Release Updated--- : parrent : 43bc926
+        hash : 43bc926 : commit :[STYLECHANGES] mmfile &&&  [TEST] test &&& : parrent : dc83509
+        hash : dc83509 : commit :---[acedfe4] Release Updated--- : parrent : acedfe4
+        hash : acedfe4 : commit :[STYLECHANGES] mmfile  [TEST] commit for n5 : parrent : cb0569f
+        hash : cb0569f : commit :---[81e054f] Release Updated--- : parrent : 81e054f
+        hash : 81e054f : commit :check fot out of lt commits : parrent : a7fe14a
+        hash : a7fe14a : commit :---[d70b9f5] Release Updated--- : parrent : d70b9f5
+        hash : d70b9f5 : commit :[TEST] check for cherry pick : parrent : ce9e8e3
+        hash : ce9e8e3 : commit :---[419540f] Release Updated--- : parrent : 419540f
+        hash : 419540f : commit :Revert "[TEST] common test" : parrent : ab64d3c
+        hash : ab64d3c : commit :---[6401a5b] Release Updated--- : parrent : 6401a5b
+        hash : 6401a5b : commit :[TEST] common test : parrent : 12d5caa
+        hash : 12d5caa : commit :---[2dbf00c] Release Updated--- : parrent : 2dbf00c
+        hash : 2dbf00c : commit :[BUGFIX] test for revert reset : parrent : 3f13e96
+        hash : 3f13e96 : commit :---[af1fa07] Release Updated--- : parrent : af1fa07
+        hash : af1fa07 : commit :[BUGFIX] testcomponent n55  [TEST] check : parrent : 5d5ad8e
+        hash : 5d5ad8e : commit :---[1bf749d] Release Updated--- : parrent : 1bf749d
+        hash : 1bf749d : commit :[BUGFIX] test check : parrent : 4e873d7
+        hash : 4e873d7 : commit :---[964af8c] Release Updated--- : parrent : 964af8c
+        hash : 964af8c : commit :Revert "[BUGFIX] name added in 19" : parrent : 612d738
+        hash : 612d738 : commit :---[8df80aa] Release Updated--- : parrent : 8df80aa
+        hash : 8df80aa : commit :[BUGFIX] name added in 19 : parrent : 9eea66e
+        hash : 9eea66e : commit :---[3954a7b] Release Updated--- : parrent : 3954a7b
+        hash : 3954a7b : commit :Revert "[TEST] test" : parrent : fed0b83
+        hash : fed0b83 : commit :---[b350d2c] Release Updated--- : parrent : b350d2c
+        hash : b350d2c : commit :[TEST] test : parrent : bf4340c
+        hash : bf4340c : commit :---[042ac90] Release Updated--- : parrent : 042ac90
+        hash : 042ac90 : commit :Revert "[TEST] temp concept" : parrent : ebd97e6
+        hash : ebd97e6 : commit :---[be33fa7] Release Updated--- : parrent : be33fa7
+        hash : be33fa7 : commit :[TEST] temp concept : parrent : 0d3cdb6
+        hash : 0d3cdb6 : commit :Revert "[TEST] value revert" : parrent : 4fe3d97
+        hash : 4fe3d97 : commit :---[18456ca] Release Updated--- : parrent : 18456ca
+        hash : 18456ca : commit :[TEST] value revert : parrent : 91ef488
+        hash : 91ef488 : commit :Revert "[TEST] temp concept" : parrent : a5dbb1a
+        hash : a5dbb1a : commit :---[1cae403] Release Updated--- : parrent : 1cae403
+        hash : 1cae403 : commit :[TEST] temp concept : parrent : 21ee0bb
+        hash : 21ee0bb : commit :Revert "[BUGFIX] testcomponent n55" : parrent : c9d3d6f
+        hash : c9d3d6f : commit :---[57e1fc8] Release Updated--- : parrent : 57e1fc8
+        hash : 57e1fc8 : commit :[BUGFIX] testcomponent n55 : parrent : 3f868a9
+        hash : 3f868a9 : commit :---[ed72809] Release Updated--- : parrent : ed72809
+        hash : ed72809 : commit :---build/userDocs/lyte-commit-parser_main_Wdplpdqvdul.json is created--- : parrent : 2c584c2
+        hash : 2c584c2 : commit :---Release Updated--- : parrent : cc28c2f
+        hash : cc28c2f : commit :[TEST] commit for n5 : parrent : 6d1c606
+        hash : 6d1c606 : commit :---build/userDocs/userReleaseNotes.json is created--- : parrent : d491fe6
+        hash : d491fe6 : commit :lyteDocsCreated : parrent : 47be930
+        hash : 47be930 : commit :update all recorde : parrent : e8a0a34
+        hash : e8a0a34 : commit :[BUGFIX] test for rec  [BUGFIX] bf  [BUGFIX] comon msg check for recursion  [BUGFIX] test : parrent : a2a752f
+        hash : a2a752f : commit :---build/userDocs/userReleaseNotes.json is created--- : parrent : 24685f0
+        hash : 24685f0 : commit :update with mul : parrent : 5defec4
+        hash : 5defec4 : commit :update n55.txt : parrent : de3a4e9
+        hash : de3a4e9 : commit :update : parrent : 0f4f84b
+        hash : 0f4f84b : commit :u[ : parrent : 19220b2
+        hash : 19220b2 : commit :update : parrent : d21fbd9
+        hash : d21fbd9 : commit :[TEST] test commit for git show -> [n5] : parrent : f1b76da
+        hash : f1b76da : commit :[BUGFIX] check for branch name -> [66] : parrent : ac70f06
+        hash : ac70f06 : commit :r msg console : parrent : eeaaac7
+        hash : eeaaac7 : commit :[BUGFIX] console added -> [66] : parrent : b564561
+        hash : b564561 : commit :[BUGFIX] test console log -> [n9] : parrent : 50a1d14
+        hash : 50a1d14 : commit :hi hello at 9 : parrent : 465c9d4
+        hash : 465c9d4 : commit :empty console : parrent : d5649f0
+        hash : d5649f0 : commit :[BUGFIX] 66txt flasechack -> [66] : parrent : e2ec254
+        hash : e2ec254 : commit :[BUGFIX] 66txt flasechack removed -> [66] : parrent : 46aa519
+        hash : 46aa519 : commit :[BUGFIX] 66txt falsechack -> [66] : parrent : ae70460
+        hash : ae70460 : commit :[BUGFIX] n55 function added -> [n55] : parrent : 8d5d9ad
+        hash : 8d5d9ad : commit :[BUGFIX] test for romote -> [66] : parrent : 34cd7b7
+        hash : 34cd7b7 : commit :function true : parrent : 7608a08
+        hash : 7608a08 : commit :[BUGFIX] test for console -> [66] : parrent : 72a3aa1
+        hash : 72a3aa1 : commit :component -> [BUGFIX] nameSpace function added -> [n6] : parrent : 8750087
+        hash : 8750087 : commit :components -> [BUGFIX] check for conflicts -> [66] : parrent : 75e4670
+        hash : 75e4670 : commit :[BUGFIX] ages -> [66] : parrent : 2ab04b6
+        hash : 2ab04b6 : commit :updated : parrent : 9a49065
+        hash : 9a49065 : commit :[BUGFIX] commit added -> [66] : parrent : 1b75cce
+        hash : 1b75cce : commit :[BUGFIX] testing for mul -> [n6,n8] : parrent : bb9f27d
+        hash : bb9f27d : commit :build/userDocs/lyte-commit-parser_Wdplpdqvdul.json is created : parrent : 22612af
+        hash : 22612af : commit :[BUGFIX] new 66 file -> [66] : parrent : e86734c
+        hash : e86734c : commit :new file created : parrent : 8eaa298
+        hash : 8eaa298 : commit :[BUGFIX] name() function added : parrent : 9375e2e
+        hash : 9375e2e : commit :[BUGFIX] test func name : parrent : a16e180
+        hash : a16e180 : commit :Merge remote-tracking branch 'refs/remotes/origin/test' into test : parrent : 05cb798 9803682
+        hash : 9803682 : commit :[BUGFIX] com.msg for : parrent : 5777d81
+        hash : 5777d81 : commit :[BUGFIX] check for release notes -> naanthan : parrent : a3e7419
+hash : 0b6feb9 : commit :[BUGFIX] tempfunction in main : parrent : e32c088
+hash : e32c088 : commit :[BUGFIX] check for release notes -> naanthan : parrent : b974945
+        hash : 05cb798 : commit :[BUGFIX] check for release notes -> naanthan : parrent : a3e7419
+hash : b974945 : commit :new check in test for conflict : parrent : 9cda296
+        hash : a3e7419 : commit :added : parrent : 90359a8
+hash : 9cda296 : commit :[BUGFIX] test in n9.txt : parrent : 2f8bb60
+hash : 2f8bb60 : commit :[BUGFIX] new1 in n5.txt  [TEST] testing concept in n8.txt : parrent : ccf6f47
+hash : ccf6f47 : commit :[BUGFIX] [BUGFIX] ceck in n7.txt test in n9.txt : parrent : 751275f
+hash : 751275f : commit :[BUGFIX] direct command check in n8.txt : parrent : 0e2af9b
+hash : 0e2af9b : commit :[TEST] component test : parrent : 74301cd
+hash : 74301cd : commit :[TEST] : parrent : 609aa3d
+hash : 609aa3d : commit :[BUGFIX] : parrent : 7e2446d
+hash : 7e2446d : commit :[TEST] reset in n5.txt : parrent : 992231f
+hash : 992231f : commit : check in n5.txt : parrent : 14d89ae
+hash : 14d89ae : commit : checking for revert in n5.txt : parrent : 285d63e
+hash : 285d63e : commit :[BUGFIX]temp test : parrent : ac0f836
+hash : ac0f836 : commit :test : parrent : f65f900
+hash : f65f900 : commit :new check in test for conflict : parrent : 728879e
+       hash : 90359a8 : commit :new check in test for conflict : parrent : d84ea1d
+hash : 728879e : commit :new log in temp : parrent : 70628d5
+hash : 70628d5 : commit :new log in test branch : parrent : debac30

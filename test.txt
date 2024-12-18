@@ -1,14 +1,227 @@
-      naayagan  
+[
+    {
+        "hash": "7052f23",
+        "date": "3 weeks ago",
+        "commit": "test commit",
+        "authorName": "Tamimansari",
+        "authorEmail": "tamimansari7339@gmail.com",
+        "parent": "5957a4f"
+    },
+    {
+        "hash": "fa544b4",
+        "date": "3 weeks ago",
+        "commit": "On main",
+        "authorName": "Tamimansari",
+        "authorEmail": "tamimansari7339@gmail.com",
+        "parent": "ce9e8e3 0699002"
+    },
+    {
+        "hash": "0699002",
+        "date": "3 weeks ago",
+        "commit": "index on main",
+        "authorName": "Tamimansari",
+        "authorEmail": "tamimansari7339@gmail.com",
+        "parent": "ce9e8e3"
+    },
 
-      naaaa
+    {
+        "hash": "ce9e8e3",
+        "date": "3 months ago",
+        "commit": "---[419540f] Release Updated---",
+        "authorName": "Tamimansari",
+        "authorEmail": "tamimansari7339@gmail.com",
+        "parent": "419540f"
+    },
+    {
+        "hash": "419540f",
+        "date": "3 months ago",
+        "commit": "Revert \"[TEST] common test\"",
+        "authorName": "Tamimansari",
+        "authorEmail": "tamimansari7339@gmail.com",
+        "parent": "ab64d3c"
+    },
+    {
+        "hash": "ab64d3c",
+        "date": "3 months ago",
+        "commit": "---[6401a5b] Release Updated---",
+        "authorName": "Tamimansari",
+        "authorEmail": "tamimansari7339@gmail.com",
+        "parent": "6401a5b"
+    },
+    {
+        "hash": "ae70460",
+        "date": "4 months ago",
+        "commit": "[BUGFIX] n55 function added -> [n55]",
+        "authorName": "Tamimansari",
+        "authorEmail": "tamimansari7339@gmail.com",
+        "parent": "8d5d9ad"
+    },
+    {
 
-      naan thaan
 
-      function name(){
-            
-      }
- 
 
+        
+        "hash": "8d5d9ad",
+        "date": "4 months ago",
+        "commit": "[BUGFIX] test for romote -> [66]",
+        "authorName": "Tamimansari",
+        "authorEmail": "tamimansari7339@gmail.com",
+        "parent": "34cd7b7"
+    },
+    {
+        "hash": "34cd7b7",
+        "date": "4 months ago",
+        "commit": "function true",
+        "authorName": "Tamimansari",
+        "authorEmail": "tamimansari7339@gmail.com",
+        "parent": "7608a08"
+    },
+    {
+        "hash": "7608a08",
+        "date": "4 months ago",
+        "commit": "[BUGFIX] test for console -> [66]",
+        "authorName": "Tamimansari",
+        "authorEmail": "tamimansari7339@gmail.com",
+        "parent": "72a3aa1"
+    },
+    {
+        "hash": "72a3aa1",
+        "date": "4 months ago",
+        "commit": "component -> [BUGFIX] nameSpace function added -> [n6]",
+        "authorName": "Tamimansari",
+        "authorEmail": "tamimansari7339@gmail.com",
+        "parent": "8750087"
+    },
+    {
+        "hash": "8750087",
+        "date": "4 months ago",
+        "commit": "components -> [BUGFIX] check for conflicts -> [66]",
+        "authorName": "Tamimansari",
+        "authorEmail": "tamimansari7339@gmail.com",
+        "parent": "75e4670"
+    },
+    {
+        "hash": "75e4670",
+        "date": "4 months ago",
+        "commit": "[BUGFIX] ages -> [66]",
+        "authorName": "Tamimansari",
+        "authorEmail": "tamimansari7339@gmail.com",
+        "parent": "2ab04b6"
+    },
+    {
+        "hash": "2ab04b6",
+        "date": "4 months ago",
+        "commit": "updated",
+        "authorName": "Tamimansari",
+        "authorEmail": "tamimansari7339@gmail.com",
+        "parent": "9a49065"
+    },
+    {
+        "hash": "9a49065",
+        "date": "4 months ago",
+        "commit": "[BUGFIX] commit added -> [66]",
+        "authorName": "Tamimansari",
+        "authorEmail": "tamimansari7339@gmail.com",
+        "parent": "1b75cce"
+    },
+    {
+        "hash": "1b75cce",
+        "date": "4 months ago",
+        "commit": "[BUGFIX] testing for mul -> [n6,n8]",
+        "authorName": "Tamimansari",
+        "authorEmail": "tamimansari7339@gmail.com",
+        "parent": "bb9f27d"
+    },
+    {
+        "hash": "bb9f27d",
+        "date": "4 months ago",
+        "commit": "build/userDocs/lyte-commit-parser_Wdplpdqvdul.json is created",
+        "authorName": "Tamimansari",
+        "authorEmail": "tamimansari7339@gmail.com",
+        "parent": "22612af"
+    },
+    {
+        "hash": "22612af",
+        "date": "4 months ago",
+        "commit": "[BUGFIX] new 66 file -> [66]",
+        "authorName": "Tamimansari",
+        "authorEmail": "tamimansari7339@gmail.com",
+        "parent": "e86734c"
+    },
+    {
+        "hash": "e86734c",
+        "date": "4 months ago",
+        "commit": "new file created",
+        "authorName": "Tamimansari",
+        "authorEmail": "tamimansari7339@gmail.com",
+        "parent": "8eaa298"
+    },
+    {
+        "hash": "8eaa298",
+        "date": "4 months ago",
+        "commit": "[BUGFIX] name() function added",
+        "authorName": "Tamimansari",
+        "authorEmail": "tamimansari7339@gmail.com",
+        "parent": "9375e2e"
+    },
+    {
+        "hash": "9375e2e",
+        "date": "4 months ago",
+        "commit": "[BUGFIX] test func name",
+        "authorName": "Tamimansari",
+        "authorEmail": "tamimansari7339@gmail.com",
+        "parent": "a16e180"
+    },
+    {
+        "hash": "a16e180",
+        "date": "4 months ago",
+        "commit": "Merge remote-tracking branch 'refs/remotes/origin/test' into test",
+        "authorName": "Tamimansari",
+        "authorEmail": "tamimansari7339@gmail.com",
+        "parent": "05cb798 9803682"
+    },
+    {
+        "hash": "9803682",
+        "date": "4 months ago",
+        "commit": "[BUGFIX] com.msg for",
+        "authorName": "Tamimansari",
+        "authorEmail": "tamimansari7339@gmail.com",
+        "parent": "5777d81"
+    },
+    {
+        "hash": "5777d81",
+        "date": "4 months ago",
+        "commit": "[BUGFIX] check for release notes -> naanthan",
+        "authorName": "Tamimansari",
+        "authorEmail": "tamimansari7339@gmail.com",
+        "parent": "a3e7419"
+    },
+    {
+        "hash": "0b6feb9",
+        "date": "4 months ago",
+        "commit": "[BUGFIX] tempfunction in main",
+        "authorName": "Tamimansari",
+        "authorEmail": "tamimansari7339@gmail.com",
+        "parent": "e32c088"
+    },
+    {
+        "hash": "e32c088",
+        "date": "4 months ago",
+        "commit": "[BUGFIX] check for release notes -> naanthan",
+        "authorName": "Tamimansari",
+        "authorEmail": "tamimansari7339@gmail.com",
+        "parent": "b974945"
+    },
+    {
+        "hash": "05cb798",
+        "date": "4 months ago",
+        "commit": "[BUGFIX] check for release notes -> naanthan",
+        "authorName": "Tamimansari",
+        "authorEmail": "tamimansari7339@gmail.com",
+        "parent": "a3e7419"
+    },
+]
+in the above data how to itrerate all the data in seperate branch names
 
 
   

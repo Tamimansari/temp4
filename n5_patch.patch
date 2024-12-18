@@ -2,16 +2,6 @@
   "3.4.6": {
     "multiplefiles": [
       {
-        "msg": "test commit",
-        "type_of_commit": "[BUGFIX]",
-        "fileName": [
-          "n5.txt"
-        ],
-        "date_of_commit": "7 - 10 - 2024",
-        "time_of_commit": "10:31:52",
-        "hash_of_commit": "a0c6107"
-      },
-      {
         "msg": "t",
         "type_of_commit": "[BUGFIX]",
         "fileName": [
@@ -44,21 +34,6 @@
         "date_of_commit": "1 - 10 - 2024",
         "time_of_commit": "12:58:42",
         "hash_of_commit": "85999ca"
-      }
-    ]
-  },
-  "5.5.5": {
-    "multiplefiles": [
-      {
-        "msg": "common msg",
-        "type_of_commit": "[BUGFIX]",
-        "fileName": [
-          "n6.txt",
-          "n7.txt"
-        ],
-        "date_of_commit": "7 - 10 - 2024",
-        "time_of_commit": "11:56:34",
-        "hash_of_commit": "35a4b1c"
       }
     ]
   },
@@ -102,18 +77,6 @@
         "time_of_commit": "12:58:17",
         "hash_of_commit": "5a33e52"
       }
-    ],
-    "n8.txt": [
-      {
-        "msg": "commit n8 file",
-        "type_of_commit": "[BUGFIX]",
-        "fileName": [
-          "n8.txt"
-        ],
-        "date_of_commit": "8 - 10 - 2024",
-        "time_of_commit": "18:29:23",
-        "hash_of_commit": "5d2aaa6"
-      }
     ]
   },
   "4.5.6": {
@@ -129,21 +92,11 @@
         "time_of_commit": "12:59:18",
         "hash_of_commit": "389ff76"
       }
-    ],
-    "n55.txt": [
-      {
-        "msg": "commit to check",
-        "type_of_commit": "[BUGFIX]",
-        "fileName": [
-          "n55.txt"
-        ],
-        "date_of_commit": "8 - 10 - 2024",
-        "time_of_commit": "15:22:07",
-        "hash_of_commit": "61cdb2e"
-      }
     ]
-  },
-  "1.1.1": {
+  }
+}
+{
+  "unpublishedVersion": {
     "multiplefiles": [
       {
         "msg": "test",
@@ -155,28 +108,35 @@
         "date_of_commit": "4 - 10 - 2024",
         "time_of_commit": "18:44:35",
         "hash_of_commit": "d45bda2"
-      },
-      {
-        "msg": "commit for cherry local",
-        "type_of_commit": "[BUGFIX]",
-        "fileName": [
-          "mm.txt"
-        ],
-        "date_of_commit": "24 - 10 - 2024",
-        "time_of_commit": "20:00:11",
-        "hash_of_commit": "90e3309"
       }
-    ],
-    "n5_patch.patch": [
+    ]
+  },
+  "3.4.6": {
+    "multiplefiles": [
       {
-        "msg": "commit for cherry test",
+        "msg": "test commit",
         "type_of_commit": "[BUGFIX]",
         "fileName": [
-          "n5_patch.patch"
+          "n5.txt"
         ],
-        "date_of_commit": "8 - 10 - 2024",
-        "time_of_commit": "12:19:04",
-        "hash_of_commit": "926bca5"
+        "date_of_commit": "7 - 10 - 2024",
+        "time_of_commit": "10:31:52",
+        "hash_of_commit": "a0c6107"
+      }
+    ]
+  },
+  "5.5.5": {
+    "multiplefiles": [
+      {
+        "msg": "common msg",
+        "type_of_commit": "[BUGFIX]",
+        "fileName": [
+          "n6.txt",
+          "n7.txt"
+        ],
+        "date_of_commit": "7 - 10 - 2024",
+        "time_of_commit": "11:56:34",
+        "hash_of_commit": "35a4b1c"
       }
     ]
   }

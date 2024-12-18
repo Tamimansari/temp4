@@ -1,0 +1,127 @@
+ hash : 3cd7bee : commit :test commit : parrent : 0ca901f
+ hash : 0ca901f : commit :test commit : parrent : aee4ed7
+ hash : aee4ed7 : commit :---[64e0e33] Release Updated--- : parrent : 64e0e33
+ hash : 64e0e33 : commit :[BUGFIX] check1  && [TEST] check2 : parrent : b59ba21
+ hash : b59ba21 : commit :---[b307fb5] Release Updated--- : parrent : b307fb5
+ hash : b307fb5 : commit :[BUGFIX] comm : parrent : 9b105a5
+ hash : 9b105a5 : commit :---[561ffad] Release Updated--- : parrent : 561ffad
+ hash : 561ffad : commit :[BUGFIX] test comm : parrent : 9329599
+ hash : 9329599 : commit :---[4b09fe5] Release Updated--- : parrent : 4b09fe5
+ hash : 4b09fe5 : commit :[TEST] te : parrent : 39f74e0
+ hash : 39f74e0 : commit :---[fd945ea] Release Updated--- : parrent : fd945ea
+ hash : fd945ea : commit :[BUGFIX] ertyuert : parrent : be3a004
+ hash : be3a004 : commit :---User Docfile is created--- : parrent : f88283f
+ hash : f88283f : commit :build/releases version updated to 8.88.8 : parrent : 215df11
+ hash : 215df11 : commit :---[93fa6fd] Release Updated--- : parrent : 93fa6fd
+ hash : 93fa6fd : commit :[BUGFIX] lev : parrent : 8445dbc
+ hash : 8445dbc : commit :---User Docfile is created--- : parrent : 5fa57a0
+ hash : 5fa57a0 : commit :build/releases version updated to 8.88.8 : parrent : 10e99ba
+ hash : 10e99ba : commit :---[59feafb] Release Updated--- : parrent : 59feafb
+ hash : 59feafb : commit :[BUGFIX] test m : parrent : 5339aa9
+ hash : 5339aa9 : commit :---[a83468a] Release Updated--- : parrent : a83468a
+ hash : a83468a : commit :[BUGFIX] test map for single [BUGFIX] test commit : parrent : f7600f3
+ hash : f7600f3 : commit :---User Docfile is created--- : parrent : fc13cc1
+ hash : fc13cc1 : commit :user docs deleted : parrent : 8fa8b6a
+ hash : 8fa8b6a : commit :---User Docfile is created--- : parrent : 61b6fc1
+ hash : 61b6fc1 : commit :build/releases version updated to 5.5.5 : parrent : 99b534f
+ hash : 99b534f : commit :---[8026584] Release Updated--- : parrent : 8026584
+ hash : 8026584 : commit :[TEST] check : parrent : adca876
+ hash : adca876 : commit :---[94ef2dd] Release Updated--- : parrent : 94ef2dd
+ hash : 94ef2dd : commit :[BUGFIX] n5 file testing : parrent : 4f7416a
+ hash : 4f7416a : commit :---[e100854] Release Updated--- : parrent : e100854
+ hash : e100854 : commit :---[dd5439c] Release Updated--- : parrent : dd5439c
+ hash : dd5439c : commit :Revert "[FEATURE] new msg for soft reset  && [TEST] test  && [TEST] soft reset" : parrent : 366846b
+ hash : 366846b : commit :---[0025bbb] Release Updated--- : parrent : 0025bbb
+ hash : 0025bbb : commit :[FEATURE] new msg for soft reset  && [TEST] test  && [TEST] soft reset : parrent : 189b7d0
+ hash : 189b7d0 : commit :---[13a1cfa] Release Updated--- : parrent : 13a1cfa
+ hash : 13a1cfa : commit :Revert "[BUGFIX] n5 file testing  && [BUGFIX] test" : parrent : 9b3cdbd
+ hash : 9b3cdbd : commit :---[3032443] Release Updated--- : parrent : 3032443
+ hash : 3032443 : commit :[FEATURE] check  && [BUGFIX] check : parrent : bfa2735
+ hash : bfa2735 : commit :---[7df44d8] Release Updated--- : parrent : 7df44d8
+ hash : 7df44d8 : commit :[BUGFIX] n5 file testing  && [BUGFIX] test : parrent : 3ef5e77
+ hash : 3ef5e77 : commit :release update : parrent : 8a527db
+ hash : 8a527db : commit :release update : parrent : aebcd92
+ hash : aebcd92 : commit :commit changed for reset check normal : parrent : e199835
+ hash : e199835 : commit :release update : parrent : 05c9552
+ hash : 05c9552 : commit :files added : parrent : 99559d9
+ hash : 99559d9 : commit :build/userDocs/lyte-commit-parser_temp_Wdplpdqvdul.json is created : parrent : 0598c20
+ hash : 0598c20 : commit :build/releases version updated to 3.3.3 : parrent : dfeb1d6
+ hash : dfeb1d6 : commit :build/userDocs/lyte-commit-parser_temp_Wdplpdqvdul.json is created : parrent : 344b05a
+ hash : 344b05a : commit :new check in test for conflict : parrent : 38fe57f
+ hash : 38fe57f : commit :new log in temp : parrent : a8d1e11
+ hash : a8d1e11 : commit :new log in test branch : parrent : 37f5e69
+ hash : 37f5e69 : commit :temp branch code added : parrent : 4d39579
+ hash : 4d39579 : commit :cmt : parrent : ea25400
+ hash : ea25400 : commit :test function added n7 : parrent : 93f98a6
+ hash : 93f98a6 : commit :added 2 test : parrent : 2d30823
+ hash : 2d30823 : commit :second test added : parrent : 1e1c2ad
+ hash : 1e1c2ad : commit :new log in temp added : parrent : 713636a
+ hash : 713636a : commit :test 3 check added : parrent : e740836
+ hash : e740836 : commit :test check : parrent : 219030b
+ hash : 219030b : commit : n6 in n6.txt : parrent : 6ee3563
+ hash : 6ee3563 : commit :n8 commmit : parrent : e14f976
+ hash : e14f976 : commit :n7 commmit : parrent : 09c9173
+ hash : 09c9173 : commit : n9 in n9.txt : parrent : 4a67b48
+ hash : 4a67b48 : commit :build/userDocs/lyte-commit-parser_main_Wdplpdqvdul.json is created : parrent : f99e1b1
+ hash : f99e1b1 : commit :build/releases version updated to 1.1.1 : parrent : f13b4ad
+ hash : f13b4ad : commit : check in n5.txt : parrent : ddde19f
+ hash : ddde19f : commit :nallavan : parrent : c1fd482
+ hash : c1fd482 : commit :added : parrent : 8d8260b
+ hash : 8d8260b : commit :Merge remote-tracking branch 'origin/main' : parrent : 4d91f1f a1357b3
+        hash : a1357b3 : commit :test : parrent : ce29883
+        hash : ce29883 : commit :stetu : parrent : eae1a71
+        hash : eae1a71 : commit :temp : parrent : 9dcb2f1
+        hash : 9dcb2f1 : commit :tets : parrent : 7f31c4f
+        hash : 7f31c4f : commit :commit test : parrent : 2f92c2a
+        hash : 2f92c2a : commit : name in test.txt : parrent : 808ed0c 99af03e
+        hash : 99af03e : commit :build/releases version updated to 1.2.3 : parrent : 4edb1db
+        hash : 4edb1db : commit : check in n6.txt : parrent : 8ea5243
+        hash : 8ea5243 : commit :build/userDocs/lyte-commit-parser_main_Wdplpdqvdul.json is created : parrent : 2d03836
+        hash : 2d03836 : commit : up : parrent : c0141fa
+        hash : c0141fa : commit :build/releases version updated to : parrent : a01caf0
+        hash : a01caf0 : commit :test : parrent : 38a9272
+        hash : 38a9272 : commit :build/userDocs/lyte-commit-parser_main_Tamimansari.json is created : parrent : 9c5a23b
+        hash : 9c5a23b : commit :build/releases version updated to 1.0.0 : parrent : 1f9866c
+        hash : 1f9866c : commit : test in n6.txt : parrent : a47bb9b
+        hash : a47bb9b : commit :build/userDocs/lyte-commit-parser_main_Tamimansari.json is created : parrent : f05947b
+        hash : f05947b : commit :build/releases version updated to 1.0.0 : parrent : 05be156
+        hash : 05be156 : commit :check : parrent : 9c2b32f
+        hash : 9c2b32f : commit :build/userDocs/lyte-commit-parser_main_Tamimansari.json is created : parrent : dd7edce
+        hash : dd7edce : commit :build/releases version updated to 1.0.0 : parrent : 96cb99d
+        hash : 96cb99d : commit : testing concept in n8.txt : parrent : 1f803b6
+        hash : 1f803b6 : commit :ReleaseNotes Updated : parrent : e9c5ce4
+        hash : 808ed0c : commit :ReleaseNotes Updated : parrent : e9c5ce4
+        hash : e9c5ce4 : commit :Merge remote-tracking branch 'refs/remotes/origin/main' : parrent : 32477e5 bafac6a
+        hash : 32477e5 : commit : new1 in n5.txt : parrent : 9fed010
+        hash : bafac6a : commit :empty : parrent : 9fed010
+        hash : 9fed010 : commit :new msg added : parrent : 861d3c5
+        hash : 861d3c5 : commit :deleted : parrent : dbfa3fd
+        hash : dbfa3fd : commit : check in n5.txt : parrent : 8ddf17e
+ hash : 4d91f1f : commit : name in test.txt : parrent : 21c6a47
+ hash : 21c6a47 : commit : delete in ReleaseNotes.json : parrent : 22e6e1d
+ hash : 22e6e1d : commit :Revert "build/releases version updated to 1.0.0" : parrent : 8b7b84d
+ hash : 8b7b84d : commit : checking for revert in n5.txt : parrent : da26eac
+ hash : da26eac : commit :build/releases version updated to 1.0.0 : parrent : b9c5cef
+ hash : b9c5cef : commit : version check in n9.txt : parrent : b465915
+ hash : b465915 : commit : testing concept in n8.txt : parrent : a83114b
+ hash : a83114b : commit :build/releases version updated to 1.0.0 : parrent : 8ddf17e
+ hash : 8ddf17e : commit : ceck in n7.txt : parrent : 98e55c8
+ hash : 98e55c8 : commit :build/userDocs/lyte-commit-parser_main_Tamimansari.json is created : parrent : 809be28
+ hash : 809be28 : commit :lyteDocsCreated : parrent : 5436fa8
+ hash : 5436fa8 : commit :release notes : parrent : 6480941 d36b3e5
+ hash : 6480941 : commit : test thamimraj in n9.txt : parrent : 1ab2cd3
+        hash : d36b3e5 : commit : thamimraj in n9.txt : parrent : 1ab2cd3
+ hash : 1ab2cd3 : commit : git reset 2 time : parrent : f980739
+ hash : f980739 : commit :usingGitReset : parrent : 5eafdbd
+ hash : 5eafdbd : commit :Revert " check up in n7.txt" : parrent : c280355
+ hash : c280355 : commit : check up in n7.txt : parrent : f6f5b90
+ hash : f6f5b90 : commit : Test ads added in n7.txt : parrent : 4b76292
+ hash : 4b76292 : commit :Revert " ansari added 2 in n7.txt" : parrent : 593922c
+ hash : 593922c : commit : ansari added 2 in n7.txt : parrent : 5f291a8
+ hash : 5f291a8 : commit : Test ads added in n7.txt : parrent : 8f2bb22
+ hash : 8f2bb22 : commit : tempmsg in n7.txt : parrent : ad35f6e
+ hash : ad35f6e : commit :Revert "Revert " changes in n6.txt"" : parrent : 5a1cb55
+ hash : 5a1cb55 : commit :Revert "Revert "Revert " changes in n6.txt""" : parrent : ce35efd
+ hash : ce35efd : commit :Revert "Revert " changes in n6.txt"" : parrent : 466bac5
+ hash : 466bac5 : commit :Revert " changes in n6.txt" : parrent : cc44a6a
+ hash : cc44a6a : commit : changes in n6.txt : parrent : 07adb3e
