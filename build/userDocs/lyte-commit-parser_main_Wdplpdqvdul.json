@@ -1,28 +1,3 @@
 {
-  "unpublishedVersion": {
-    "multiplefiles": [
-      {
-        "msg": "test",
-        "type_of_commit": "[BUGFIX]",
-        "fileName": [
-          "mm.txt",
-          "n55.txt"
-        ],
-        "date_of_commit": "25 - 12 - 2024",
-        "time_of_commit": "12:57:31",
-        "hash_of_commit": "0ae9496"
-      },
-      {
-        "msg": "chechoing 1",
-        "type_of_commit": "[BUGFIX]",
-        "fileName": [
-          "n55.txt",
-          "n9.txt"
-        ],
-        "date_of_commit": "25 - 12 - 2024",
-        "time_of_commit": "12:58:59",
-        "hash_of_commit": "c8e05ce"
-      }
-    ]
-  }
+  "unpublishedVersion": {}
 }
