@@ -1,0 +1,17 @@
+{
+  "unpublishedVersion": {
+    "multiplefiles": [
+      {
+        "msg": "test",
+        "type_of_commit": "[BUGFIX]",
+        "fileName": [
+          "mm.txt",
+          "n55.txt"
+        ],
+        "date_of_commit": "25 - 12 - 2024",
+        "time_of_commit": "12:57:31",
+        "hash_of_commit": "0ae9496"
+      }
+    ]
+  }
+}
