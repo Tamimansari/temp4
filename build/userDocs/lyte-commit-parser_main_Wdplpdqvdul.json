@@ -22,6 +22,17 @@
         "date_of_commit": "25 - 12 - 2024",
         "time_of_commit": "12:58:59",
         "hash_of_commit": "c8e05ce"
+      },
+      {
+        "msg": "commit after publish in other repo",
+        "type_of_commit": "[TEST]",
+        "fileName": [
+          "mm.txt",
+          "n7.txt"
+        ],
+        "date_of_commit": "26 - 12 - 2024",
+        "time_of_commit": "19:24:14",
+        "hash_of_commit": "e2904d3"
       }
     ]
   }
