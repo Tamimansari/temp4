@@ -2,37 +2,14 @@
   "unpublishedVersion": {
     "multiplefiles": [
       {
-        "msg": "test",
+        "msg": "new change without knowing lt precheckout is happened",
         "type_of_commit": "[BUGFIX]",
         "fileName": [
-          "mm.txt",
-          "n55.txt"
-        ],
-        "date_of_commit": "25 - 12 - 2024",
-        "time_of_commit": "12:57:31",
-        "hash_of_commit": "0ae9496"
-      },
-      {
-        "msg": "chechoing 1",
-        "type_of_commit": "[BUGFIX]",
-        "fileName": [
-          "n55.txt",
-          "n9.txt"
-        ],
-        "date_of_commit": "25 - 12 - 2024",
-        "time_of_commit": "12:58:59",
-        "hash_of_commit": "c8e05ce"
-      },
-      {
-        "msg": "commit after publish in other repo",
-        "type_of_commit": "[TEST]",
-        "fileName": [
-          "mm.txt",
           "n7.txt"
         ],
-        "date_of_commit": "26 - 12 - 2024",
-        "time_of_commit": "19:24:14",
-        "hash_of_commit": "e2904d3"
+        "date_of_commit": "25 - 12 - 2024",
+        "time_of_commit": "13:00:13",
+        "hash_of_commit": "0ef90a6"
       }
     ]
   }
