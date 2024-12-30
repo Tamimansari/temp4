@@ -31,6 +31,16 @@
         "date_of_commit": "30 - 12 - 2024",
         "time_of_commit": "12:03:58",
         "hash_of_commit": "a8f14d9"
+      },
+      {
+        "msg": "checking",
+        "type_of_commit": "[BUGFIX]",
+        "fileName": [
+          "n5_patch.patch.save"
+        ],
+        "date_of_commit": "30 - 12 - 2024",
+        "time_of_commit": "18:58:46",
+        "hash_of_commit": "b3e027f"
       }
     ]
   }
