@@ -10,6 +10,17 @@
         "date_of_commit": "31 - 12 - 2024",
         "time_of_commit": "15:57:39",
         "hash_of_commit": "0c1316f"
+      },
+      {
+        "msg": "new cmmit after publish _ 2",
+        "type_of_commit": "[FEATURE]",
+        "fileName": [
+          "66.txt",
+          "graph.html"
+        ],
+        "date_of_commit": "31 - 12 - 2024",
+        "time_of_commit": "15:57:56",
+        "hash_of_commit": "e05474a"
       }
     ]
   }
