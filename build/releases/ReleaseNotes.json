@@ -246,5 +246,29 @@
         "hash_of_commit": "c8e05ce"
       }
     ]
+  },
+  "0.0.0": {
+    "multiplefiles": [
+      {
+        "msg": "fix multi",
+        "type_of_commit": "[TEST]",
+        "fileName": [
+          "index.js"
+        ],
+        "date_of_commit": "31 - 12 - 2024",
+        "time_of_commit": "13:57:54",
+        "hash_of_commit": "1e224b3"
+      },
+      {
+        "msg": "commit for saving as a new publish",
+        "type_of_commit": "[FEATURE]",
+        "fileName": [
+          "index.js"
+        ],
+        "date_of_commit": "31 - 12 - 2024",
+        "time_of_commit": "15:56:00",
+        "hash_of_commit": "3f0eac0"
+      }
+    ]
   }
 }
