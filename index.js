@@ -12,8 +12,10 @@ const nodes = [
 ];
 
 const links = [
+
     { source: "A", target: "B" },
     { source: "B", target: "C" }
+    
 ];
 
 const simulation = d3.forceSimulation(nodes)
