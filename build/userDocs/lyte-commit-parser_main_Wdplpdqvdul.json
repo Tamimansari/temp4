@@ -1,3 +1,16 @@
 {
-  "unpublishedVersion": {}
+  "unpublishedVersion": {
+    "multiplefiles": [
+      {
+        "msg": "new cmmit after publish",
+        "type_of_commit": "[FEATURE]",
+        "fileName": [
+          "vfx.js"
+        ],
+        "date_of_commit": "31 - 12 - 2024",
+        "time_of_commit": "15:57:39",
+        "hash_of_commit": "0c1316f"
+      }
+    ]
+  }
 }
