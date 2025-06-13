@@ -8,9 +8,6 @@
         "parent": "8002e9f"
     },
     {
-        "hash": "8002e9f",
-        "date": "13 days ago",
-        "commit": "66.txt,mm.txt,n55.txt",
         "authorName": "Tamimansari",
         "authorEmail": "tamimansari7339@gmail.com",
         "parent": "dac1247"
