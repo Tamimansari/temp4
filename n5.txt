@@ -456,9 +456,7 @@
         "hash": "7df44d8",
         "date": "3 months ago",
         "commit": "[BUGFIX] n5 file testing  && [BUGFIX] test",
-        "authorName": "Tamimansari",
-        "authorEmail": "tamimansari7339@gmail.com",
-        "parent": "3ef5e77"
+       
     },
     {
         "hash": "6b46201",
