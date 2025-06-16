@@ -259,12 +259,6 @@
         "parent": "8445dbc"
     },
     {
-        
-        "authorName": "Tamimansari",
-        "authorEmail": "tamimansari7339@gmail.com",
-        "parent": "5fa57a0"
-    },
-    {
         "hash": "5fa57a0",
         "date": "3 months ago",
         "commit": "build/releases version updated to 8.88.8",
