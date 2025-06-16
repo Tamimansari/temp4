@@ -197,9 +197,7 @@
         "parent": "9329599"
     },
     {
-        "hash": "9329599",
-        "date": "3 months ago",
-        "commit": "---[4b09fe5] Release Updated---",
+      
         "authorName": "Tamimansari",
         "authorEmail": "tamimansari7339@gmail.com",
         "parent": "4b09fe5"
@@ -261,9 +259,7 @@
         "parent": "8445dbc"
     },
     {
-        "hash": "8445dbc",
-        "date": "3 months ago",
-        "commit": "---User Docfile is created---",
+        
         "authorName": "Tamimansari",
         "authorEmail": "tamimansari7339@gmail.com",
         "parent": "5fa57a0"
