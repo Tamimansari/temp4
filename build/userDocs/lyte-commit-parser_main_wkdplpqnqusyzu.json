@@ -13,6 +13,21 @@
         "time_of_commit": "14:53:02",
         "hash_of_commit": "be235ee"
       }
+    ],
+    "test": [
+      {
+        "msg": "sample comit",
+        "type_of_commit": "[FEATURE]",
+        "fileName": [
+          "n5.txt"
+        ],
+        "date_of_commit": "16 - 6 - 2025",
+        "time_of_commit": "15:29:59",
+        "hash_of_commit": "56352e3"
+      }
+    ],
+    "fileName": [
+      []
     ]
   }
 }
