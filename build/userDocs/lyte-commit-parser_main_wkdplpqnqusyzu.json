@@ -41,6 +41,18 @@
     ],
     "fileName": [
       []
+    ],
+    "singleFile": [
+      {
+        "msg": "empty space removed",
+        "type_of_commit": "[BUGFIX]",
+        "fileName": [
+          "0"
+        ],
+        "date_of_commit": "16 - 6 - 2025",
+        "time_of_commit": "15:55:08",
+        "hash_of_commit": "3d4c742"
+      }
     ]
   }
 }
