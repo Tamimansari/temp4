@@ -49,6 +49,16 @@
         "date_of_commit": "16 - 6 - 2025",
         "time_of_commit": "15:55:08",
         "hash_of_commit": "3d4c742"
+      },
+      {
+        "msg": "commit check with file name",
+        "type_of_commit": "[BUGFIX]",
+        "fileName": [
+          "n5.txt"
+        ],
+        "date_of_commit": "16 - 6 - 2025",
+        "time_of_commit": "15:56:09",
+        "hash_of_commit": "d2f1e1b"
       }
     ]
   }
