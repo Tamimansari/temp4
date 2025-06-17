@@ -5,6 +5,9 @@ function name(){
         
     }
 }
+
+
+
 console.log("hi nanba in 1.2.2 version");
 
    
@@ -14,6 +17,9 @@ thamim name added
    name added
 
 function ages(){
+
+
+    
     console.log("jo")
     console.log("empty");
     if(flase){
