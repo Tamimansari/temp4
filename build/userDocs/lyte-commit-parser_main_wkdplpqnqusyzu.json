@@ -69,6 +69,16 @@
         "date_of_commit": "16 - 6 - 2025",
         "time_of_commit": "22:56:22",
         "hash_of_commit": "6215bee"
+      },
+      {
+        "msg": "test commit for issue lag",
+        "type_of_commit": "[BUGFIX]",
+        "fileName": [
+          "n5.txt"
+        ],
+        "date_of_commit": "17 - 6 - 2025",
+        "time_of_commit": "13:08:29",
+        "hash_of_commit": "69d8c65"
       }
     ]
   }
