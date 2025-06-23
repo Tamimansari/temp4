@@ -81,6 +81,18 @@
         "date_of_commit": "1 - 10 - 2024",
         "time_of_commit": "12:59:18",
         "hash_of_commit": "389ff76"
+      },
+      {
+        "msg": "commit for checking multiple merge issue",
+        "type_of_commit": "[PERFORMANCE_ENHANCE]",
+        "fileName": [
+          "n55.txt",
+          "n8.txt",
+          "n9.txt"
+        ],
+        "date_of_commit": "23 - 6 - 2025",
+        "time_of_commit": "18:48:19",
+        "hash_of_commit": "15b5ca4"
       }
     ]
   }
