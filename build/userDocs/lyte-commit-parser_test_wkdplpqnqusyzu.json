@@ -11,6 +11,17 @@
         "date_of_commit": "23 - 6 - 2025",
         "time_of_commit": "15:50:03",
         "hash_of_commit": "e660cf0"
+      },
+      {
+        "msg": "453ty65",
+        "type_of_commit": "[FEATURE]",
+        "fileName": [
+          "n5.txt",
+          "n8.txt"
+        ],
+        "date_of_commit": "3 - 7 - 2025",
+        "time_of_commit": "23:48:47",
+        "hash_of_commit": "9eca2f6"
       }
     ]
   }
